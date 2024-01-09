@@ -1,0 +1,37 @@
+add_product_detail:
+  api_name: '新增product detail'
+  url: '/api/v1/services/wealth_tech/amp/product-details'
+  accloud_wtech__active__c: 'true'
+  accloud_wtech__portfgross1mo__c: '12'
+  accloud_wtech__sepacc__c: { strategy_sfid}
+  assert:
+    code: 200
+delete_product_detail_by_sfid:
+  api_name: '通过sfid删除product detail信息'
+  url: '/api/v1/services/wealth_tech/amp/product-details/'
+  sfid: { detail_sfid }
+  assert:
+    code: 200
+update_product_detail:
+  api_name: '更新product detail'
+  url: '/api/v1/services/wealth_tech/amp/product-details/'
+  sfid: { detail_sfid }
+  accloud_wtech__active__c: 'false'
+  accloud_wtech__portfgross1mo__c: '15'
+  accloud_wtech__sepacc__c: { strategy_sfid }
+  assert:
+    code: 200
+get_product_detail_by_strategy_sfid:
+  api_name: '通过sfid查询product detail信息'
+  url: '/api/v1/services/wealth_tech/amp/product-details/search/sa-id?saId='
+  sfid: { strategy_sfid }
+  assert:
+    code: 200
+
+
+
+
+
+
+
+

@@ -1,0 +1,77 @@
+{
+  "uid" : "b1a8273437954620fa374b796ffaacdd",
+  "name" : "behaviors",
+  "children" : [ {
+    "name" : "amp_accloud_api",
+    "children" : [ {
+      "name" : "amp_accloud_api",
+      "children" : [ {
+        "name" : "money_manager",
+        "children" : [ {
+          "name" : "test_add_money_manager",
+          "uid" : "3213375d60510afb",
+          "parentUid" : "cccf0c22ce927c0098f014d642a02f88",
+          "status" : "failed",
+          "time" : {
+            "start" : 1704579892036,
+            "stop" : 1704579893571,
+            "duration" : 1535
+          },
+          "flaky" : false,
+          "parameters" : [ ]
+        }, {
+          "name" : "test_update_money_manager",
+          "uid" : "aed169c1f175a5da",
+          "parentUid" : "cccf0c22ce927c0098f014d642a02f88",
+          "status" : "broken",
+          "time" : {
+            "start" : 1704579893734,
+            "stop" : 1704579894215,
+            "duration" : 481
+          },
+          "flaky" : false,
+          "parameters" : [ ]
+        }, {
+          "name" : "test_get_money_manager_by_name",
+          "uid" : "582e90cdba3a927e",
+          "parentUid" : "cccf0c22ce927c0098f014d642a02f88",
+          "status" : "failed",
+          "time" : {
+            "start" : 1704579894224,
+            "stop" : 1704579895737,
+            "duration" : 1513
+          },
+          "flaky" : false,
+          "parameters" : [ ]
+        }, {
+          "name" : "test_get_money_manager_by_sfid",
+          "uid" : "7eb7142a1becd957",
+          "parentUid" : "cccf0c22ce927c0098f014d642a02f88",
+          "status" : "broken",
+          "time" : {
+            "start" : 1704579895751,
+            "stop" : 1704579895998,
+            "duration" : 247
+          },
+          "flaky" : false,
+          "parameters" : [ ]
+        }, {
+          "name" : "test_delete_money_manager_by_sfid",
+          "uid" : "7eb1136287bfdc1b",
+          "parentUid" : "cccf0c22ce927c0098f014d642a02f88",
+          "status" : "broken",
+          "time" : {
+            "start" : 1704579896013,
+            "stop" : 1704579896254,
+            "duration" : 241
+          },
+          "flaky" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "cccf0c22ce927c0098f014d642a02f88"
+      } ],
+      "uid" : "173bdd3d3227352868e133814c61a3e7"
+    } ],
+    "uid" : "56a25d64ee4e31c4de9008001965d832"
+  } ]
+}

@@ -1,0 +1,102 @@
+{
+  "72b392be13943026dfcede0a10598929" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "7eb7142a1becd957",
+      "status" : "broken",
+      "statusDetails" : "psycopg2.errors.InFailedSqlTransaction: current transaction is aborted, commands ignored until end of transaction block",
+      "time" : {
+        "start" : 1704579895751,
+        "stop" : 1704579895998,
+        "duration" : 247
+      }
+    } ]
+  },
+  "a0615b2cba6c7a463cf207e7a53f712a" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "7eb1136287bfdc1b",
+      "status" : "broken",
+      "statusDetails" : "psycopg2.errors.InFailedSqlTransaction: current transaction is aborted, commands ignored until end of transaction block",
+      "time" : {
+        "start" : 1704579896013,
+        "stop" : 1704579896254,
+        "duration" : 241
+      }
+    } ]
+  },
+  "ae27dfa0729d3f4f5c009ef5a5c86cd4" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "aed169c1f175a5da",
+      "status" : "broken",
+      "statusDetails" : "psycopg2.errors.UndefinedTable: relation \"development.t_wtech_money_manager\" does not exist\nLINE 1: select sfid from development.t_wtech_money_manager where nam...\n                         ^",
+      "time" : {
+        "start" : 1704579893734,
+        "stop" : 1704579894215,
+        "duration" : 481
+      }
+    } ]
+  },
+  "93693e919084a55e3b7e6b4c7b2bd9a4" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "582e90cdba3a927e",
+      "status" : "failed",
+      "statusDetails" : "AssertionError",
+      "time" : {
+        "start" : 1704579894224,
+        "stop" : 1704579895737,
+        "duration" : 1513
+      }
+    } ]
+  },
+  "268bb448d219735555be8f81bf73795f" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "3213375d60510afb",
+      "status" : "failed",
+      "statusDetails" : "AssertionError",
+      "time" : {
+        "start" : 1704579892036,
+        "stop" : 1704579893571,
+        "duration" : 1535
+      }
+    } ]
+  }
+}

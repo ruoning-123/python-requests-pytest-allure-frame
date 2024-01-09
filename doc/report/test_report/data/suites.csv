@@ -1,0 +1,6 @@
+"Status","Name","Duration in ms","Description"
+"failed","test.test_amp_api.test_amp_accloud_api.test_money_manager.Test_MoneyManager#test_get_money_manager_by_name","1513",""
+"broken","test.test_amp_api.test_amp_accloud_api.test_money_manager.Test_MoneyManager#test_update_money_manager","481",""
+"failed","test.test_amp_api.test_amp_accloud_api.test_money_manager.Test_MoneyManager#test_add_money_manager","1535",""
+"broken","test.test_amp_api.test_amp_accloud_api.test_money_manager.Test_MoneyManager#test_delete_money_manager_by_sfid","241",""
+"broken","test.test_amp_api.test_amp_accloud_api.test_money_manager.Test_MoneyManager#test_get_money_manager_by_sfid","247",""

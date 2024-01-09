@@ -1,0 +1,111 @@
+add_separate_account_sma:
+  api_name: '新增separate account'
+  url: '/api/v1/services/wealth_tech/ips/seprate-account'
+  accloud_wtech__category__c:  &accloud_wtech__category__c   "Cash & Equivalents"
+  accloud_wtech__custodians__c:  &accloud_wtech__custodians__c  "Austin Capital Trust"
+  accloud_wtech__mmanager__c: { money_manager_sfid }
+  accloud_wtech__modelname__c:  &accloud_wtech__modelname__c "sma-060"
+  accloud_wtech__position__c:  &accloud_wtech__position__c "[{\"Name\":\"At&T Inc 3% 02/15/2022\",\"Symbol\":\"00206RBD3\",\"accloud__asset_category_name__c\":\"Corp Investment Grade Bond\",\"accloud__asset_accloud_wtech__category__c\":\"Corporate Bonds\",\"accloud__asset_class__c\":\"Fixed Incomes\",\"FIELD4\":\"20\",\"FIELD3\":\"10\",\"FIELD5\":\"250,000.00\",\"FIELD6\":5000000}]"
+  accloud_wtech__risklevel__c:  &accloud_wtech__risklevel__c "Aggressive"
+  accloud_wtech__type__c:  &accloud_wtech__type__c "Separate Account"
+  assert:
+    code: 200
+#更新sma，不改变数据，简单的调试接口
+update_separate_account_sma:
+  api_name: '更新separate account'
+  url: '/api/v1/services/wealth_tech/ips/seprate-account/'
+  accloud_wtech__category__c:  *accloud_wtech__category__c
+  accloud_wtech__custodians__c: *accloud_wtech__custodians__c
+  accloud_wtech__mmanager__c: { money_manager_sfid }
+  accloud_wtech__modelname__c: *accloud_wtech__modelname__c
+  accloud_wtech__position__c: *accloud_wtech__position__c
+  accloud_wtech__risklevel__c: *accloud_wtech__risklevel__c
+  accloud_wtech__type__c: *accloud_wtech__type__c
+  sfid: { sma_sfid }
+  assert:
+    code: 200
+#新增model，名称为model-520
+add_separate_account_model:
+  api_name: '新增separate account'
+  url: '/api/v1/services/wealth_tech/ips/seprate-account'
+  accloud_wtech__custodians__c:  *accloud_wtech__custodians__c
+  accloud_wtech__mmanager__c: { money_manager_sfid }
+  accloud_wtech__modelname__c:  "model-060"
+  accloud_wtech__position__c:   '[{"FIELD2":"Cash & Equivalents","FIELD4":"0.00","Fund":[{"FIELD5":"","FIELD6":"10"}]},{"FIELD2":"US Large Cap Value","FIELD4":"0.00","Fund":[{"FIELD5":"","FIELD6":""}]},{"FIELD2":"US Large Cap Blend","FIELD4":"0.00","Fund":[{"FIELD5":"","FIELD6":""}]},{"FIELD2":"US Large Cap Growth","FIELD4":"0.00","Fund":[{"FIELD5":"","FIELD6":""}]},{"FIELD2":"US Mid Cap Value","FIELD4":"0.00","Fund":[{"FIELD5":"","FIELD6":""}]},{"FIELD2":"US Mid Cap Blend","FIELD4":"0.00","Fund":[{"FIELD5":"","FIELD6":""}]},{"FIELD2":"US Mid Cap Growth","FIELD4":"0.00","Fund":[{"FIELD5":"","FIELD6":""}]},{"FIELD2":"US Small Cap Value","FIELD4":"0.00","Fund":[{"FIELD5":"","FIELD6":""}]},{"FIELD2":"US Small Cap Blend","FIELD4":"0.00","Fund":[{"FIELD5":"","FIELD6":""}]},{"FIELD2":"US Small Cap Growth","FIELD4":"0.00","Fund":[{"FIELD5":"","FIELD6":""}]},{"FIELD2":"Non-US Dev Stock","FIELD4":"0.00","Fund":[{"FIELD5":"","FIELD6":""}]},{"FIELD2":"Non-US Emrg Stock","FIELD4":"0.00","Fund":[{"FIELD5":"","FIELD6":""}]},{"FIELD2":"Balanced","FIELD4":"0.00","Fund":[{"FIELD5":"","FIELD6":""}]},{"FIELD2":"US Txbl Long Term Bonds","FIELD4":"0.00","Fund":[{"FIELD5":"","FIELD6":""}]},{"FIELD2":"US Txbl Int Term Bonds","FIELD4":"0.00","Fund":[{"FIELD5":"","FIELD6":""}]},{"FIELD2":"US Txbl Short Term Bonds","FIELD4":"0.00","Fund":[{"FIELD5":"","FIELD6":""}]},{"FIELD2":"US High Yield Bonds","FIELD4":"0.00","Fund":[{"FIELD5":"","FIELD6":""}]},{"FIELD2":"US Inv Grade Bonds","FIELD4":"0.00","Fund":[{"FIELD5":"","FIELD6":""}]},{"FIELD2":"Non-US Dev Bonds","FIELD4":"0.00","Fund":[{"FIELD5":"","FIELD6":""}]},{"FIELD2":"Fixed Income-Other","FIELD4":"0.00","Fund":[{"FIELD5":"","FIELD6":""}]},{"FIELD2":"Real Estate","FIELD4":"0.00","Fund":[{"FIELD5":"","FIELD6":""}]},{"FIELD2":"Other","FIELD4":"0.00","Fund":[{"FIELD5":"","FIELD6":""}]},{"FIELD2":"Not Classified","FIELD4":"0.00","Fund":[{"FIELD5":"","FIELD6":""}]}]'
+  accloud_wtech__risklevel__c:  *accloud_wtech__risklevel__c
+  accloud_wtech__type__c:  "Model"
+  assert:
+    code: 200
+#新增agg，名称为agg-520
+add_separate_account_strategy:
+  api_name: '新增separate account'
+  url: '/api/v1/services/wealth_tech/ips/seprate-account'
+  accloud_wtech__custodians__c:  *accloud_wtech__custodians__c
+  accloud_wtech__mmanager__c: { money_manager_sfid }
+  accloud_wtech__modelname__c:  "strategy-060"
+  accloud_wtech__position__c:  '[{"Id":"a0A8c00000i9d9DEAQ","detail":[],"label":"Austin Capital Trust","ratio":"20","symbol":"model-230","type":"Model"}]'
+  accloud_wtech__risklevel__c:  *accloud_wtech__risklevel__c
+  accloud_wtech__type__c:  "Strategy"
+  assert:
+    code: 200
+#通过sfid获取sma,model，agg信息
+get_separate_account_by_money_manager_sfid:
+  api_name: '通过money manager sfid查询separate account'
+  url: '/api/v1/services/wealth_tech/ips/seprate-account/search/money-manager-id?mId='
+  sfid: { money_manager_sfid }
+  assert:
+    code: 200
+#分别获取sma,model，agg信息
+get_separate_account_no_select:
+  api_name: '查询全部的separate account'
+  url: '/api/v1/services/wealth_tech/ips/seprate-account/search/no-select'
+  assert:
+    code: 200
+#分别通过sma_sfid,model_sfid,agg_sfid获取对应的sma,model,agg信息
+get_separate_account_by_sfid:
+  api_name: '通过sfid(selected model)查询separate account'
+  url: '/api/v1/services/wealth_tech/ips/seprate-account/search/selected-model?sfid='
+  sfid: { sma_sfid }
+  assert:
+    code: 200
+#通过sma_name,model_name,agg_name获取信息
+get_separate_account_by_name:
+  api_name: '通过name获取separate account'
+  url: '/api/v1/services/wealth_tech/ips/seprate-account/search/name?name='
+  name: *accloud_wtech__modelname__c
+  assert:
+    code: 200
+#选中name后获取security信息
+get_security_by_name:
+  api_name: '通过name获取security'
+  url: '/api/v1/services/wealth_tech/ips/securities/search/name?name='
+  name: '01449r206'
+  assert:
+    code: 200
+#通过sfid获取uma信息
+get_uma_by_money_manager_sfid:
+  api_name: '通过money manager sfid获取uma'
+  url: '/api/v1/services/wealth_tech/ips/seprate-account/search/uma?managerId='
+  managerId: { money_manager_sfid }
+  assert:
+    code: 200
+#通过sma_sfid,model_sfid,agg_sfid删除sma，model,agg信息
+delete_separate_account_by_sma_sfid:
+  api_name: '通过sfid删除separate account'
+  url: '/api/v1/services/wealth_tech/ips/seprate-account/'
+  sfid: { sma_sfid }
+  assert:
+    code: 200
+delete_separate_account_by_model_sfid:
+  api_name: '通过sfid删除model'
+  url: '/api/v1/services/wealth_tech/ips/seprate-account/'
+  sfid: { model_sfid }
+  assert:
+    code: 200
+delete_separate_account_by_strategy_sfid:
+  api_name: '通过sfid删除strategy'
+  url: '/api/v1/services/wealth_tech/ips/seprate-account/'
+  sfid: { strategy_sfid }
+  assert:
+    code: 200
+

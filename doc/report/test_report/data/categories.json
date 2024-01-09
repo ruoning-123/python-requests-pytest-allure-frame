@@ -1,0 +1,85 @@
+{
+  "uid" : "4b4757e66a1912dae1a509f688f20b0f",
+  "name" : "categories",
+  "children" : [ {
+    "name" : "Product defects",
+    "children" : [ {
+      "name" : "AssertionError",
+      "children" : [ {
+        "name" : "test_add_money_manager",
+        "uid" : "3213375d60510afb",
+        "parentUid" : "a0017ad855102fea08b8682d27fec4ca",
+        "status" : "failed",
+        "time" : {
+          "start" : 1704579892036,
+          "stop" : 1704579893571,
+          "duration" : 1535
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_get_money_manager_by_name",
+        "uid" : "582e90cdba3a927e",
+        "parentUid" : "a0017ad855102fea08b8682d27fec4ca",
+        "status" : "failed",
+        "time" : {
+          "start" : 1704579894224,
+          "stop" : 1704579895737,
+          "duration" : 1513
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "a0017ad855102fea08b8682d27fec4ca"
+    } ],
+    "uid" : "8fb3a91ba5aaf9de24cc8a92edc82b5d"
+  }, {
+    "name" : "Test defects",
+    "children" : [ {
+      "name" : "psycopg2.errors.UndefinedTable: relation \"development.t_wtech_money_manager\" does not exist\nLINE 1: select sfid from development.t_wtech_money_manager where nam...\n                         ^",
+      "children" : [ {
+        "name" : "test_update_money_manager",
+        "uid" : "aed169c1f175a5da",
+        "parentUid" : "589d054fe3344d6131835831aa8e8908",
+        "status" : "broken",
+        "time" : {
+          "start" : 1704579893734,
+          "stop" : 1704579894215,
+          "duration" : 481
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "589d054fe3344d6131835831aa8e8908"
+    }, {
+      "name" : "psycopg2.errors.InFailedSqlTransaction: current transaction is aborted, commands ignored until end of transaction block",
+      "children" : [ {
+        "name" : "test_get_money_manager_by_sfid",
+        "uid" : "7eb7142a1becd957",
+        "parentUid" : "a697fd345062b752f1660de98edc5016",
+        "status" : "broken",
+        "time" : {
+          "start" : 1704579895751,
+          "stop" : 1704579895998,
+          "duration" : 247
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_delete_money_manager_by_sfid",
+        "uid" : "7eb1136287bfdc1b",
+        "parentUid" : "a697fd345062b752f1660de98edc5016",
+        "status" : "broken",
+        "time" : {
+          "start" : 1704579896013,
+          "stop" : 1704579896254,
+          "duration" : 241
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "a697fd345062b752f1660de98edc5016"
+    } ],
+    "uid" : "bdbf199525818fae7a8651db9eafe741"
+  } ]
+}

@@ -1,0 +1,48 @@
+add_money_manager:
+  api_name: '新增money manager'
+  url: '/api/v1/services/wealth_tech/money-managers'
+  accloud_wtech__manager_overview__c: &accloud_wtech__manager_overview__c 'overview_c'
+  name: &name 'money-manager-060'
+  assert:
+    code: 200
+delete_money_manager_by_sfid:
+  api_name: '通过sfid删除money manager信息'
+  url: '/api/v1/services/wealth_tech/money-managers/'
+  sfid: { sfid }
+  assert:
+    code: 200
+update_money_manager:
+  api_name: '更新money manager'
+  url: '/api/v1/services/wealth_tech/money-managers/'
+  sfid: { sfid }
+  name: *name
+  accloud_wtech__city__c: 'beijing'
+  accloud_wtech__fax__c: 'fax-0124'
+  accloud_wtech__manager_overview__c: *accloud_wtech__manager_overview__c
+  accloud_wtech__phone__c: '18909128734'
+  accloud_wtech__state__c: 'Alabama'
+  accloud_wtech__street__c: '0289街道'
+  accloud_wtech__zipcode__c: 'zic-01'
+  assert:
+    code: 200
+get_money_manager_by_sfid:
+  api_name: '通过sfid查询money manager信息'
+  url: '/api/v1/services/wealth_tech/money-managers/'
+  sfid: { sfid }
+  assert:
+    code: 200
+get_money_manager_by_name:
+  api_name: '通过name查询money manager信息'
+  url: '/api/v1/services/wealth_tech/money-managers/search/name?name='
+  name: *name
+  assert:
+    code: 200
+
+
+
+
+
+
+
+
+

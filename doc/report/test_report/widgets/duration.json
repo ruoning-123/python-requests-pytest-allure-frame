@@ -1,0 +1,51 @@
+[ {
+  "uid" : "582e90cdba3a927e",
+  "name" : "test_get_money_manager_by_name",
+  "time" : {
+    "start" : 1704579894224,
+    "stop" : 1704579895737,
+    "duration" : 1513
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "aed169c1f175a5da",
+  "name" : "test_update_money_manager",
+  "time" : {
+    "start" : 1704579893734,
+    "stop" : 1704579894215,
+    "duration" : 481
+  },
+  "status" : "broken",
+  "severity" : "critical"
+}, {
+  "uid" : "3213375d60510afb",
+  "name" : "test_add_money_manager",
+  "time" : {
+    "start" : 1704579892036,
+    "stop" : 1704579893571,
+    "duration" : 1535
+  },
+  "status" : "failed",
+  "severity" : "critical"
+}, {
+  "uid" : "7eb1136287bfdc1b",
+  "name" : "test_delete_money_manager_by_sfid",
+  "time" : {
+    "start" : 1704579896013,
+    "stop" : 1704579896254,
+    "duration" : 241
+  },
+  "status" : "broken",
+  "severity" : "critical"
+}, {
+  "uid" : "7eb7142a1becd957",
+  "name" : "test_get_money_manager_by_sfid",
+  "time" : {
+    "start" : 1704579895751,
+    "stop" : 1704579895998,
+    "duration" : 247
+  },
+  "status" : "broken",
+  "severity" : "normal"
+} ]

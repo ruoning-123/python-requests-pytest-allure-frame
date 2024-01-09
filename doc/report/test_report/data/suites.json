@@ -1,0 +1,77 @@
+{
+  "uid" : "98d3104e051c652961429bf95fa0b5d6",
+  "name" : "suites",
+  "children" : [ {
+    "name" : "test.test_amp_api.test_amp_accloud_api",
+    "children" : [ {
+      "name" : "test_money_manager",
+      "children" : [ {
+        "name" : "Test_MoneyManager",
+        "children" : [ {
+          "name" : "test_add_money_manager",
+          "uid" : "3213375d60510afb",
+          "parentUid" : "5d7fe26c710e828198d3c07e82028634",
+          "status" : "failed",
+          "time" : {
+            "start" : 1704579892036,
+            "stop" : 1704579893571,
+            "duration" : 1535
+          },
+          "flaky" : false,
+          "parameters" : [ ]
+        }, {
+          "name" : "test_update_money_manager",
+          "uid" : "aed169c1f175a5da",
+          "parentUid" : "5d7fe26c710e828198d3c07e82028634",
+          "status" : "broken",
+          "time" : {
+            "start" : 1704579893734,
+            "stop" : 1704579894215,
+            "duration" : 481
+          },
+          "flaky" : false,
+          "parameters" : [ ]
+        }, {
+          "name" : "test_get_money_manager_by_name",
+          "uid" : "582e90cdba3a927e",
+          "parentUid" : "5d7fe26c710e828198d3c07e82028634",
+          "status" : "failed",
+          "time" : {
+            "start" : 1704579894224,
+            "stop" : 1704579895737,
+            "duration" : 1513
+          },
+          "flaky" : false,
+          "parameters" : [ ]
+        }, {
+          "name" : "test_get_money_manager_by_sfid",
+          "uid" : "7eb7142a1becd957",
+          "parentUid" : "5d7fe26c710e828198d3c07e82028634",
+          "status" : "broken",
+          "time" : {
+            "start" : 1704579895751,
+            "stop" : 1704579895998,
+            "duration" : 247
+          },
+          "flaky" : false,
+          "parameters" : [ ]
+        }, {
+          "name" : "test_delete_money_manager_by_sfid",
+          "uid" : "7eb1136287bfdc1b",
+          "parentUid" : "5d7fe26c710e828198d3c07e82028634",
+          "status" : "broken",
+          "time" : {
+            "start" : 1704579896013,
+            "stop" : 1704579896254,
+            "duration" : 241
+          },
+          "flaky" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "5d7fe26c710e828198d3c07e82028634"
+      } ],
+      "uid" : "d7af1fc4e7cd6bc37222c553ac8cb2ff"
+    } ],
+    "uid" : "9d127dc33f7c6947fd7fa39108e17b10"
+  } ]
+}

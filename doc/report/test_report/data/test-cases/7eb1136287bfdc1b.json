@@ -1,0 +1,79 @@
+{
+  "uid" : "7eb1136287bfdc1b",
+  "name" : "test_delete_money_manager_by_sfid",
+  "fullName" : "test.test_amp_api.test_amp_accloud_api.test_money_manager.Test_MoneyManager#test_delete_money_manager_by_sfid",
+  "historyId" : "a0615b2cba6c7a463cf207e7a53f712a",
+  "time" : {
+    "start" : 1704579896013,
+    "stop" : 1704579896254,
+    "duration" : 241
+  },
+  "status" : "broken",
+  "statusMessage" : "psycopg2.errors.InFailedSqlTransaction: current transaction is aborted, commands ignored until end of transaction block",
+  "statusTrace" : "self = <test.test_amp_api.test_amp_accloud_api.test_money_manager.Test_MoneyManager object at 0x00000232F8069040>\n\n    @allure.title('test_delete_money_manager_by_sfid')\n    @allure.severity(\"critical\")\n    def test_delete_money_manager_by_sfid(self):\n        name = mm()['get_money_manager_by_name']['name']\n>       sfid = get_sql_data(\n            \"select sfid from development.t_wtech_money_manager where name ='{}'\".format(name))[0]\n\ntest\\test_amp_api\\test_amp_accloud_api\\test_money_manager.py:61: \n_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _\n\nsql = \"select sfid from development.t_wtech_money_manager where name ='money-manager-060'\"\n\n    def get_sql_data(sql):\n        # 使用 cursor() 方法创建一个游标对象 cursor\n        cursor = db.cursor()\n        # 使用 execute()  方法执行 SQL 查询\n>       cursor.execute(sql)\nE       psycopg2.errors.InFailedSqlTransaction: current transaction is aborted, commands ignored until end of transaction block\n\nsrc\\utils\\get_mariadb_sql.py:20: InFailedSqlTransaction",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "story",
+    "value" : "money_manager"
+  }, {
+    "name" : "tag",
+    "value" : "amp接口测试"
+  }, {
+    "name" : "feature",
+    "value" : "amp_accloud_api"
+  }, {
+    "name" : "severity",
+    "value" : "critical"
+  }, {
+    "name" : "epic",
+    "value" : "amp_accloud_api"
+  }, {
+    "name" : "tag",
+    "value" : "重要"
+  }, {
+    "name" : "parentSuite",
+    "value" : "test.test_amp_api.test_amp_accloud_api"
+  }, {
+    "name" : "suite",
+    "value" : "test_money_manager"
+  }, {
+    "name" : "subSuite",
+    "value" : "Test_MoneyManager"
+  }, {
+    "name" : "host",
+    "value" : "CKNAAHABOSCSSGK"
+  }, {
+    "name" : "thread",
+    "value" : "5684-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "test.test_amp_api.test_amp_accloud_api.test_money_manager"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "critical",
+    "retries" : [ ],
+    "categories" : [ {
+      "name" : "Test defects",
+      "matchedStatuses" : [ ],
+      "flaky" : false
+    } ],
+    "tags" : [ "重要", "amp接口测试" ]
+  },
+  "source" : "7eb1136287bfdc1b.json",
+  "parameterValues" : [ ]
+}

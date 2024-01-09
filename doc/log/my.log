@@ -1,0 +1,1172 @@
+2022/11/04 21:33:40 - INFO     - get_log.py :  44 line - 执行  test_get_separate_account_by_name
+2022/11/04 21:33:46 - INFO     - get_log.py :  44 line - 执行  test_get_separate_account_by_name2
+2022/11/04 21:34:03 - INFO     - get_log.py :  44 line - 执行  test_get_separate_account_by_name3
+2022/11/04 21:34:21 - INFO     - get_log.py :  44 line - 执行  test_get_separate_account_by_name4
+2022/11/04 21:34:21 - INFO     - get_log.py :  44 line - 执行完成
+2022/11/05 05:48:47 - INFO     - get_log.py :  44 line - 执行  test_get_separate_account_by_name
+2022/11/05 05:48:54 - INFO     - get_log.py :  44 line - 执行  test_get_separate_account_by_name2
+2022/11/05 05:48:56 - INFO     - get_log.py :  44 line - 执行  test_get_separate_account_by_name3
+2022/11/05 05:48:59 - INFO     - get_log.py :  44 line - 执行  test_get_separate_account_by_name4
+2022/11/05 05:48:59 - INFO     - get_log.py :  44 line - 执行完成
+2022/11/10 01:11:14 - INFO     - get_log.py :  44 line - 执行完成
+2022/11/10 01:12:26 - INFO     - get_log.py :  44 line - 执行完成
+2022/11/10 01:14:26 - INFO     - get_log.py :  44 line - 执行  test_get_separate_account_by_name
+2022/11/10 01:14:37 - INFO     - get_log.py :  44 line - 执行  test_get_separate_account_by_name2
+2022/11/10 01:14:39 - INFO     - get_log.py :  44 line - 执行  test_get_separate_account_by_name3
+2022/11/10 01:14:42 - INFO     - get_log.py :  44 line - 执行  test_get_separate_account_by_name4
+2022/11/10 01:14:42 - INFO     - get_log.py :  44 line - 执行完成
+2022/11/10 01:17:12 - INFO     - get_log.py :  44 line - 执行  test_get_separate_account_by_name
+2022/11/10 01:17:17 - INFO     - get_log.py :  44 line - 执行  test_get_separate_account_by_name2
+2022/11/10 01:17:19 - INFO     - get_log.py :  44 line - 执行  test_get_separate_account_by_name3
+2022/11/10 01:17:29 - INFO     - get_log.py :  44 line - 执行  test_get_separate_account_by_name4
+2022/11/10 01:17:29 - INFO     - get_log.py :  44 line - 执行完成
+2022/11/10 01:20:03 - INFO     - get_log.py :  44 line - 执行  test_get_separate_account_by_name
+2022/11/10 01:20:05 - INFO     - get_log.py :  44 line - 执行  test_get_separate_account_by_name2
+2022/11/10 01:20:07 - INFO     - get_log.py :  44 line - 执行  test_get_separate_account_by_name3
+2022/11/10 01:20:10 - INFO     - get_log.py :  44 line - 执行  test_get_separate_account_by_name4
+2022/11/10 01:20:10 - INFO     - get_log.py :  44 line - 执行完成
+2022/11/10 01:37:30 - INFO     - get_log.py :  44 line - 执行  test_get_separate_account_by_name3
+2022/11/10 01:37:32 - INFO     - get_log.py :  44 line - 执行  test_get_separate_account_by_name4
+2022/11/10 01:37:35 - INFO     - get_log.py :  44 line - 执行  test_get_separate_account_by_name
+2022/11/10 01:37:37 - INFO     - get_log.py :  44 line - 执行  test_get_separate_account_by_name2
+2022/11/10 01:37:37 - INFO     - get_log.py :  44 line - 执行完成
+2022/11/10 01:39:28 - INFO     - get_log.py :  44 line - 执行  test_get_separate_account_by_name3
+2022/11/10 01:39:30 - INFO     - get_log.py :  44 line - 执行  test_get_separate_account_by_name4
+2022/11/10 01:39:36 - INFO     - get_log.py :  44 line - 执行  test_get_separate_account_by_name
+2022/11/10 01:40:27 - INFO     - get_log.py :  44 line - 执行完成
+2022/11/10 02:41:22 - INFO     - get_log.py :  44 line - 执行  test_add_money_manager
+2022/11/10 02:41:25 - INFO     - get_log.py :  44 line - 执行  test_get_separate_account_by_name4
+2022/11/10 02:41:27 - INFO     - get_log.py :  44 line - 执行  test_get_separate_account_by_name
+2022/11/10 02:41:29 - INFO     - get_log.py :  44 line - 执行  test_get_separate_account_by_name2
+2022/11/10 02:41:29 - INFO     - get_log.py :  44 line - 执行完成
+2022/11/10 02:45:33 - INFO     - get_log.py :  44 line - 执行  test_add_money_manager
+2022/11/10 02:45:35 - INFO     - get_log.py :  44 line - 执行  test_get_separate_account_by_name4
+2022/11/10 02:45:41 - INFO     - get_log.py :  44 line - 执行  test_get_separate_account_by_name
+2022/11/10 02:45:46 - INFO     - get_log.py :  44 line - 执行  test_get_separate_account_by_name2
+2022/11/10 02:45:46 - INFO     - get_log.py :  44 line - 执行完成
+2022/11/10 03:05:50 - INFO     - get_log.py :  44 line - 执行  test_add_money_manager
+2022/11/10 03:05:57 - INFO     - get_log.py :  44 line - 执行  test_get_separate_account_by_name
+2022/11/10 03:06:02 - INFO     - get_log.py :  44 line - 执行  test_get_separate_account_by_name2
+2022/11/10 03:06:02 - INFO     - get_log.py :  44 line - 执行完成
+2022/11/10 03:07:35 - INFO     - get_log.py :  44 line - 执行  test_add_money_manager
+2022/11/10 03:07:43 - INFO     - get_log.py :  44 line - 执行  test_get_separate_account_by_name
+2022/11/10 03:07:43 - INFO     - get_log.py :  44 line - 执行完成
+2022/11/10 03:15:01 - INFO     - get_log.py :  44 line - 执行  test_add_money_manager
+2022/11/10 03:15:07 - INFO     - get_log.py :  44 line - 执行  test_get_separate_account_by_name
+2022/11/10 03:15:07 - INFO     - get_log.py :  44 line - 执行完成
+2022/11/10 03:20:23 - INFO     - get_log.py :  44 line - 执行  test_add_money_manager
+2022/11/10 03:20:27 - INFO     - get_log.py :  44 line - 执行  test_get_separate_account_by_name
+2022/11/10 03:20:27 - INFO     - get_log.py :  44 line - 执行完成
+2022/11/10 03:24:15 - INFO     - get_log.py :  44 line - 执行  test_add_money_manager
+2022/11/10 03:25:06 - INFO     - get_log.py :  44 line - 执行完成
+2022/11/10 03:26:39 - INFO     - get_log.py :  44 line - 执行  test_add_money_manager
+2022/11/10 03:26:43 - INFO     - get_log.py :  44 line - 执行  test_get_separate_account_by_name
+2022/11/10 03:26:43 - INFO     - get_log.py :  44 line - 执行完成
+2022/11/10 03:32:15 - INFO     - get_log.py :  44 line - 执行  test_add_money_manager
+2022/11/10 03:32:19 - INFO     - get_log.py :  44 line - 执行  test_get_separate_account_by_name
+2022/11/10 03:32:19 - INFO     - get_log.py :  44 line - 执行完成
+2022/11/10 03:36:34 - INFO     - get_log.py :  44 line - 执行  test_add_money_manager
+2022/11/10 03:36:39 - INFO     - get_log.py :  44 line - 执行  test_get_separate_account_by_name
+2022/11/10 03:36:39 - INFO     - get_log.py :  44 line - 执行完成
+2022/11/10 03:37:27 - INFO     - get_log.py :  44 line - 执行  test_add_money_manager
+2022/11/10 03:37:30 - INFO     - get_log.py :  44 line - 执行  test_get_separate_account_by_name
+2022/11/10 03:37:30 - INFO     - get_log.py :  44 line - 执行完成
+2022/11/10 04:10:22 - INFO     - get_log.py :  44 line - 执行  test_add_money_manager
+2022/11/10 04:10:25 - INFO     - get_log.py :  44 line - 执行  test_get_separate_account_by_name
+2022/11/10 04:10:25 - INFO     - get_log.py :  44 line - 执行完成
+2022/11/10 04:14:28 - INFO     - get_log.py :  44 line - 执行  test_add_money_manager
+2022/11/10 04:14:37 - INFO     - get_log.py :  44 line - 执行  test_get_separate_account_by_name
+2022/11/10 04:14:37 - INFO     - get_log.py :  44 line - 执行完成
+2022/11/10 04:16:51 - INFO     - get_log.py :  44 line - 执行  test_add_money_manager
+2022/11/10 04:16:54 - INFO     - get_log.py :  44 line - 执行  test_get_separate_account_by_name
+2022/11/10 04:16:54 - INFO     - get_log.py :  44 line - 执行完成
+2022/11/10 04:19:12 - INFO     - get_log.py :  44 line - 执行  test_add_money_manager
+2022/11/10 04:19:16 - INFO     - get_log.py :  44 line - 执行  test_get_separate_account_by_name
+2022/11/10 04:19:16 - INFO     - get_log.py :  44 line - 执行完成
+2022/11/10 04:21:26 - INFO     - get_log.py :  44 line - 执行  test_add_money_manager
+2022/11/10 04:21:29 - INFO     - get_log.py :  44 line - 执行  test_get_separate_account_by_name
+2022/11/10 04:21:29 - INFO     - get_log.py :  44 line - 执行完成
+2022/11/10 04:24:40 - INFO     - get_log.py :  44 line - 执行  test_add_money_manager
+2022/11/10 04:24:42 - INFO     - get_log.py :  44 line - 执行  test_get_separate_account_by_name
+2022/11/10 04:24:42 - INFO     - get_log.py :  44 line - 执行完成
+2022/11/10 04:29:59 - INFO     - get_log.py :  44 line - 执行  test_add_money_manager
+2022/11/10 04:30:01 - INFO     - get_log.py :  44 line - 执行  test_get_separate_account_by_name
+2022/11/10 04:30:01 - INFO     - get_log.py :  44 line - 执行完成
+2022/11/10 04:50:57 - INFO     - get_log.py :  44 line - 执行  test_add_money_manager
+2022/11/10 04:50:58 - INFO     - get_log.py :  44 line - 执行  test_get_money_manager_by_name
+2022/11/10 04:51:00 - INFO     - get_log.py :  44 line - 执行  test_get_money_manager_by_sfid
+2022/11/10 04:51:01 - INFO     - get_log.py :  44 line - 执行  test_delete_money_manager_by_sfid
+2022/11/10 04:51:03 - INFO     - get_log.py :  44 line - 执行  test_get_separate_account_by_name
+2022/11/10 04:51:03 - INFO     - get_log.py :  44 line - 执行完成
+2022/11/10 04:52:23 - INFO     - get_log.py :  44 line - 执行  test_add_money_manager
+2022/11/10 04:52:24 - INFO     - get_log.py :  44 line - 执行  test_get_money_manager_by_name
+2022/11/10 04:52:25 - INFO     - get_log.py :  44 line - 执行  test_get_money_manager_by_sfid
+2022/11/10 04:52:27 - INFO     - get_log.py :  44 line - 执行  test_delete_money_manager_by_sfid
+2022/11/10 04:52:33 - INFO     - get_log.py :  44 line - 执行  test_get_separate_account_by_name
+2022/11/10 04:52:33 - INFO     - get_log.py :  44 line - 执行完成
+2022/11/10 04:55:32 - INFO     - get_log.py :  44 line - 执行  test_add_money_manager
+2022/11/10 04:55:33 - INFO     - get_log.py :  44 line - 执行  test_get_money_manager_by_name
+2022/11/10 04:55:35 - INFO     - get_log.py :  44 line - 执行  test_get_money_manager_by_sfid
+2022/11/10 04:55:36 - INFO     - get_log.py :  44 line - 执行  test_delete_money_manager_by_sfid
+2022/11/10 04:56:17 - INFO     - get_log.py :  44 line - 执行  test_add_money_manager
+2022/11/10 04:56:18 - INFO     - get_log.py :  44 line - 执行  test_get_money_manager_by_name
+2022/11/10 04:56:19 - INFO     - get_log.py :  44 line - 执行  test_get_money_manager_by_sfid
+2022/11/10 04:56:20 - INFO     - get_log.py :  44 line - 执行完成
+2022/11/10 04:56:20 - INFO     - get_log.py :  44 line - 执行  test_delete_money_manager_by_sfid
+2022/11/10 04:56:23 - INFO     - get_log.py :  44 line - 执行  test_get_separate_account_by_name
+2022/11/10 04:56:23 - INFO     - get_log.py :  44 line - 执行完成
+2022/11/10 05:09:20 - INFO     - get_log.py :  44 line - 执行  test_add_money_manager
+2022/11/10 05:09:21 - INFO     - get_log.py :  44 line - 执行  test_get_money_manager_by_name
+2022/11/10 05:09:23 - INFO     - get_log.py :  44 line - 执行  test_get_money_manager_by_sfid
+2022/11/10 05:09:24 - INFO     - get_log.py :  44 line - 执行  test_delete_money_manager_by_sfid
+2022/11/10 05:09:27 - INFO     - get_log.py :  44 line - 执行  test_get_separate_account_by_name
+2022/11/10 05:09:27 - INFO     - get_log.py :  44 line - 执行完成
+2022/11/10 05:10:36 - INFO     - get_log.py :  44 line - 执行  test_add_money_manager
+2022/11/10 05:11:28 - INFO     - get_log.py :  44 line - 执行  test_add_money_manager
+2022/11/10 05:11:28 - INFO     - get_log.py :  44 line - 执行  test_get_money_manager_by_sfid
+2022/11/10 05:11:29 - INFO     - get_log.py :  44 line - 执行  test_get_money_manager_by_name
+2022/11/10 05:11:29 - INFO     - get_log.py :  44 line - 执行  test_delete_money_manager_by_sfid
+2022/11/10 05:11:30 - INFO     - get_log.py :  44 line - 执行  test_get_money_manager_by_sfid
+2022/11/10 05:11:31 - INFO     - get_log.py :  44 line - 执行  test_get_separate_account_by_name
+2022/11/10 05:11:31 - INFO     - get_log.py :  44 line - 执行完成
+2022/11/10 05:11:31 - INFO     - get_log.py :  44 line - 执行  test_delete_money_manager_by_sfid
+2022/11/10 05:11:34 - INFO     - get_log.py :  44 line - 执行  test_get_separate_account_by_name
+2022/11/10 05:11:34 - INFO     - get_log.py :  44 line - 执行完成
+2022/11/10 05:28:09 - INFO     - get_log.py :  44 line - 执行  test_add_money_manager
+2022/11/10 05:28:11 - INFO     - get_log.py :  44 line - 执行  test_get_money_manager_by_name
+2022/11/10 05:28:12 - INFO     - get_log.py :  44 line - 执行  test_get_money_manager_by_sfid
+2022/11/10 05:28:13 - INFO     - get_log.py :  44 line - 执行  test_delete_money_manager_by_sfid
+2022/11/10 05:28:19 - INFO     - get_log.py :  44 line - 执行  test_get_separate_account_by_name
+2022/11/10 05:28:19 - INFO     - get_log.py :  44 line - 执行完成
+2022/11/10 05:46:45 - INFO     - get_log.py :  44 line - 执行  test_add_money_manager
+2022/11/10 05:46:46 - INFO     - get_log.py :  44 line - 执行  test_get_money_manager_by_name
+2022/11/10 05:46:48 - INFO     - get_log.py :  44 line - 执行  test_get_money_manager_by_sfid
+2022/11/10 05:46:49 - INFO     - get_log.py :  44 line - 执行  test_delete_money_manager_by_sfid
+2022/11/10 05:46:51 - INFO     - get_log.py :  44 line - 执行  test_get_separate_account_by_name
+2022/11/10 05:46:51 - INFO     - get_log.py :  44 line - 执行完成
+2022/11/10 05:54:29 - INFO     - get_log.py :  44 line - 执行  test_add_money_manager
+2022/11/10 05:54:30 - INFO     - get_log.py :  44 line - 执行  test_get_money_manager_by_name
+2022/11/10 05:54:32 - INFO     - get_log.py :  44 line - 执行  test_get_money_manager_by_sfid
+2022/11/10 05:54:33 - INFO     - get_log.py :  44 line - 执行  test_delete_money_manager_by_sfid
+2022/11/10 05:54:39 - INFO     - get_log.py :  44 line - 执行  test_get_separate_account_by_name
+2022/11/10 05:54:39 - INFO     - get_log.py :  44 line - 执行完成
+2022/11/10 23:27:40 - INFO     - get_log.py :  44 line - 执行  test_add_money_manager
+2022/11/10 23:27:42 - INFO     - get_log.py :  44 line - 执行  test_get_money_manager_by_name
+2022/11/10 23:27:43 - INFO     - get_log.py :  44 line - 执行  test_get_money_manager_by_sfid
+2022/11/10 23:27:47 - INFO     - get_log.py :  44 line - 执行  test_delete_money_manager_by_sfid
+2022/11/10 23:28:11 - INFO     - get_log.py :  44 line - 执行  test_get_separate_account_by_name
+2022/11/10 23:28:11 - INFO     - get_log.py :  44 line - 执行完成
+2022/11/10 23:28:40 - INFO     - get_log.py :  44 line - 执行  test_add_money_manager
+2022/11/10 23:28:44 - INFO     - get_log.py :  44 line - 执行  test_get_money_manager_by_name
+2022/11/10 23:28:45 - INFO     - get_log.py :  44 line - 执行  test_get_money_manager_by_sfid
+2022/11/10 23:28:47 - INFO     - get_log.py :  44 line - 执行  test_delete_money_manager_by_sfid
+2022/11/10 23:28:52 - INFO     - get_log.py :  44 line - 执行  test_get_separate_account_by_name
+2022/11/10 23:28:52 - INFO     - get_log.py :  44 line - 执行完成
+2022/11/10 23:33:29 - INFO     - get_log.py :  44 line - 执行  test_add_money_manager
+2022/11/10 23:33:34 - INFO     - get_log.py :  44 line - 执行  test_get_money_manager_by_name
+2022/11/10 23:33:36 - INFO     - get_log.py :  44 line - 执行  test_get_money_manager_by_sfid
+2022/11/10 23:33:41 - INFO     - get_log.py :  44 line - 执行  test_delete_money_manager_by_sfid
+2022/11/10 23:34:14 - INFO     - get_log.py :  44 line - 执行  test_get_separate_account_by_name
+2022/11/10 23:34:14 - INFO     - get_log.py :  44 line - 执行完成
+2022/11/10 23:35:43 - INFO     - get_log.py :  44 line - 执行  test_add_money_manager
+2022/11/10 23:35:45 - INFO     - get_log.py :  44 line - 执行  test_update_money_manager
+2022/11/10 23:35:49 - INFO     - get_log.py :  44 line - 执行  test_get_money_manager_by_name
+2022/11/10 23:35:51 - INFO     - get_log.py :  44 line - 执行  test_get_money_manager_by_sfid
+2022/11/10 23:35:52 - INFO     - get_log.py :  44 line - 执行  test_delete_money_manager_by_sfid
+2022/11/10 23:35:56 - INFO     - get_log.py :  44 line - 执行  test_get_separate_account_by_name
+2022/11/10 23:35:56 - INFO     - get_log.py :  44 line - 执行完成
+2022/11/11 02:47:13 - INFO     - get_log.py :  44 line - 执行  test_add_money_manager
+2022/11/11 02:47:17 - INFO     - get_log.py :  44 line - 执行  test_update_money_manager
+2022/11/11 02:47:19 - INFO     - get_log.py :  44 line - 执行  test_get_money_manager_by_name
+2022/11/11 02:47:20 - INFO     - get_log.py :  44 line - 执行  test_get_money_manager_by_sfid
+2022/11/11 02:47:23 - INFO     - get_log.py :  44 line - 执行  test_delete_money_manager_by_sfid
+2022/11/11 02:47:25 - INFO     - get_log.py :  44 line - 执行  test_add_separate_account
+2022/11/11 02:47:29 - INFO     - get_log.py :  44 line - 执行  test_get_separate_account_by_name
+2022/11/11 02:47:29 - INFO     - get_log.py :  44 line - 执行完成
+2022/11/11 02:54:11 - INFO     - get_log.py :  44 line - 执行  test_add_money_manager
+2022/11/11 02:54:14 - INFO     - get_log.py :  44 line - 执行  test_update_money_manager
+2022/11/11 02:54:16 - INFO     - get_log.py :  44 line - 执行  test_get_money_manager_by_name
+2022/11/11 02:54:18 - INFO     - get_log.py :  44 line - 执行  test_get_money_manager_by_sfid
+2022/11/11 02:54:20 - INFO     - get_log.py :  44 line - 执行  test_delete_money_manager_by_sfid
+2022/11/11 02:54:21 - INFO     - get_log.py :  44 line - 执行  test_add_money_manager
+2022/11/11 02:54:23 - INFO     - get_log.py :  44 line - 执行  test_add_separate_account
+2022/11/11 02:54:29 - INFO     - get_log.py :  44 line - 执行  test_get_separate_account_by_name
+2022/11/11 02:54:29 - INFO     - get_log.py :  44 line - 执行完成
+2022/11/12 00:05:28 - INFO     - get_log.py :  44 line - 执行  test_add_money_manager
+2022/11/12 00:05:30 - INFO     - get_log.py :  44 line - 执行  test_update_money_manager
+2022/11/12 00:05:33 - INFO     - get_log.py :  44 line - 执行  test_get_money_manager_by_name
+2022/11/12 00:05:34 - INFO     - get_log.py :  44 line - 执行  test_get_money_manager_by_sfid
+2022/11/12 00:05:37 - INFO     - get_log.py :  44 line - 执行  test_add_money_manager
+2022/11/12 00:05:41 - INFO     - get_log.py :  44 line - 执行  test_add_separate_account
+2022/11/12 00:06:19 - INFO     - get_log.py :  44 line - 执行完成
+2022/11/12 00:06:30 - INFO     - get_log.py :  44 line - 执行  test_add_money_manager
+2022/11/12 00:06:32 - INFO     - get_log.py :  44 line - 执行  test_update_money_manager
+2022/11/12 00:06:34 - INFO     - get_log.py :  44 line - 执行  test_get_money_manager_by_name
+2022/11/12 00:06:35 - INFO     - get_log.py :  44 line - 执行  test_get_money_manager_by_sfid
+2022/11/12 00:06:38 - INFO     - get_log.py :  44 line - 执行  test_add_money_manager
+2022/11/12 00:06:40 - INFO     - get_log.py :  44 line - 执行  test_add_separate_account
+2022/11/12 00:07:08 - INFO     - get_log.py :  44 line - 执行  test_get_separate_account_no_select
+2022/11/12 00:07:12 - INFO     - get_log.py :  44 line - 执行  test_get_separate_account_by_name
+2022/11/12 00:07:14 - INFO     - get_log.py :  44 line - 执行  test_get_security_by_name
+2022/11/12 00:07:15 - INFO     - get_log.py :  44 line - 执行完成
+2022/11/12 04:00:06 - INFO     - get_log.py :  44 line - 执行  test_add_money_manager
+2022/11/12 04:00:08 - INFO     - get_log.py :  44 line - 执行  test_update_money_manager
+2022/11/12 04:00:09 - INFO     - get_log.py :  44 line - 执行  test_get_money_manager_by_name
+2022/11/12 04:00:11 - INFO     - get_log.py :  44 line - 执行  test_get_money_manager_by_sfid
+2022/11/12 04:00:12 - INFO     - get_log.py :  44 line - 执行完成
+2022/11/12 04:01:34 - INFO     - get_log.py :  44 line - 执行  test_add_money_manager
+2022/11/12 04:01:36 - INFO     - get_log.py :  44 line - 执行  test_update_money_manager
+2022/11/12 04:01:37 - INFO     - get_log.py :  44 line - 执行  test_get_money_manager_by_name
+2022/11/12 04:01:38 - INFO     - get_log.py :  44 line - 执行  test_get_money_manager_by_sfid
+2022/11/12 04:01:39 - INFO     - get_log.py :  44 line - 执行  test_delete_money_manager_by_sfid
+2022/11/12 04:01:39 - INFO     - get_log.py :  44 line - 执行完成
+2022/11/12 04:10:55 - INFO     - get_log.py :  44 line - 执行  test_add_money_manager
+2022/11/12 04:10:57 - INFO     - get_log.py :  44 line - 执行  test_update_money_manager
+2022/11/12 04:10:58 - INFO     - get_log.py :  44 line - 执行  test_get_money_manager_by_name
+2022/11/12 04:11:00 - INFO     - get_log.py :  44 line - 执行  test_get_money_manager_by_sfid
+2022/11/12 04:11:02 - INFO     - get_log.py :  44 line - 执行  test_delete_money_manager_by_sfid
+2022/11/12 04:11:02 - INFO     - get_log.py :  44 line - 执行完成
+2022/11/12 05:02:24 - INFO     - get_log.py :  44 line - 执行完成
+2022/11/12 05:07:29 - INFO     - get_log.py :  44 line - 执行完成
+2022/11/12 05:10:09 - INFO     - get_log.py :  44 line - 执行完成
+2022/11/12 05:11:26 - INFO     - get_log.py :  44 line - 执行完成
+2022/11/12 05:18:18 - INFO     - get_log.py :  44 line - 执行  test_add_money_manager
+2022/11/12 05:18:20 - INFO     - get_log.py :  44 line - 执行  test_update_money_manager
+2022/11/12 05:18:21 - INFO     - get_log.py :  44 line - 执行  test_get_money_manager_by_name
+2022/11/12 05:18:22 - INFO     - get_log.py :  44 line - 执行  test_get_money_manager_by_sfid
+2022/11/12 05:18:23 - INFO     - get_log.py :  44 line - 执行  test_delete_money_manager_by_sfid
+2022/11/12 05:18:23 - INFO     - get_log.py :  44 line - 执行完成
+2022/11/14 22:22:34 - INFO     - get_log.py :  44 line - 执行  test_add_money_manager
+2022/11/14 22:22:37 - INFO     - get_log.py :  44 line - 执行  test_update_money_manager
+2022/11/14 22:22:39 - INFO     - get_log.py :  44 line - 执行  test_get_money_manager_by_name
+2022/11/14 22:22:41 - INFO     - get_log.py :  44 line - 执行  test_get_money_manager_by_sfid
+2022/11/14 22:22:42 - INFO     - get_log.py :  44 line - 执行  test_delete_money_manager_by_sfid
+2022/11/14 22:22:42 - INFO     - get_log.py :  44 line - 执行完成
+2022/11/15 00:42:49 - INFO     - get_log.py :  44 line - 执行  test_add_money_manager
+2022/11/15 00:42:53 - INFO     - get_log.py :  44 line - 执行  test_get_separate_account_no_select
+2022/11/15 00:42:55 - INFO     - get_log.py :  44 line - 执行  test_get_separate_account_by_name
+2022/11/15 00:42:57 - INFO     - get_log.py :  44 line - 执行  test_get_security_by_name
+2022/11/15 00:42:58 - INFO     - get_log.py :  44 line - 执行完成
+2022/11/15 01:02:38 - INFO     - get_log.py :  44 line - 执行  test_add_money_manager
+2022/11/15 01:02:40 - INFO     - get_log.py :  44 line - 执行  test_add_separate_account_sma
+2022/11/15 01:02:44 - INFO     - get_log.py :  44 line - 执行  test_add_separate_account_model
+2022/11/15 01:02:52 - INFO     - get_log.py :  44 line - 执行  test_get_separate_account_no_select
+2022/11/15 01:02:56 - INFO     - get_log.py :  44 line - 执行  test_get_separate_account_by_name
+2022/11/15 01:02:58 - INFO     - get_log.py :  44 line - 执行  test_get_security_by_name
+2022/11/15 01:03:00 - INFO     - get_log.py :  44 line - 执行完成
+2022/11/15 01:04:52 - INFO     - get_log.py :  44 line - 执行  test_add_money_manager
+2022/11/15 01:04:55 - INFO     - get_log.py :  44 line - 执行  test_add_separate_account_sma
+2022/11/15 01:04:58 - INFO     - get_log.py :  44 line - 执行  test_add_separate_account_model
+2022/11/15 01:05:03 - INFO     - get_log.py :  44 line - 执行  test_get_separate_account_no_select
+2022/11/15 01:05:05 - INFO     - get_log.py :  44 line - 执行  test_get_separate_account_by_name
+2022/11/15 01:05:08 - INFO     - get_log.py :  44 line - 执行  test_get_security_by_name
+2022/11/15 01:05:11 - INFO     - get_log.py :  44 line - 执行完成
+2022/11/15 01:09:24 - INFO     - get_log.py :  44 line - 执行  test_add_money_manager
+2022/11/15 01:09:26 - INFO     - get_log.py :  44 line - 执行  test_add_separate_account_sma
+2022/11/15 01:09:28 - INFO     - get_log.py :  44 line - 执行  test_add_separate_account_model
+2022/11/15 01:09:56 - INFO     - get_log.py :  44 line - 执行  test_get_separate_account_no_select
+2022/11/15 01:09:59 - INFO     - get_log.py :  44 line - 执行  test_get_separate_account_by_name
+2022/11/15 01:10:01 - INFO     - get_log.py :  44 line - 执行  test_get_security_by_name
+2022/11/15 01:10:04 - INFO     - get_log.py :  44 line - 执行完成
+2022/11/15 01:13:07 - INFO     - get_log.py :  44 line - 执行  test_add_money_manager
+2022/11/15 01:13:08 - INFO     - get_log.py :  44 line - 执行  test_add_separate_account_sma
+2022/11/15 01:13:10 - INFO     - get_log.py :  44 line - 执行  test_add_separate_account_model
+2022/11/15 01:13:28 - INFO     - get_log.py :  44 line - 执行  test_get_separate_account_no_select
+2022/11/15 01:13:30 - INFO     - get_log.py :  44 line - 执行  test_get_separate_account_by_name
+2022/11/15 01:13:33 - INFO     - get_log.py :  44 line - 执行  test_get_security_by_name
+2022/11/15 01:13:35 - INFO     - get_log.py :  44 line - 执行完成
+2022/11/15 01:33:12 - INFO     - get_log.py :  44 line - 执行  test_add_money_manager
+2022/11/15 01:33:14 - INFO     - get_log.py :  44 line - 执行  test_add_separate_account_sma
+2022/11/15 01:33:17 - INFO     - get_log.py :  44 line - 执行  test_get_separate_account_no_select
+2022/11/15 01:33:19 - INFO     - get_log.py :  44 line - 执行  test_get_separate_account_by_name
+2022/11/15 01:33:20 - INFO     - get_log.py :  44 line - 执行  test_get_security_by_name
+2022/11/15 01:33:21 - INFO     - get_log.py :  44 line - 执行完成
+2022/11/15 01:42:24 - INFO     - get_log.py :  44 line - 执行  test_update_separate_account_sma
+2022/11/15 01:42:24 - INFO     - get_log.py :  44 line - 执行完成
+2022/11/15 01:43:30 - INFO     - get_log.py :  44 line - 执行完成
+2022/11/15 01:44:13 - INFO     - get_log.py :  44 line - 执行完成
+2022/11/15 01:46:08 - INFO     - get_log.py :  44 line - 执行  test_add_separate_account_strategy
+2022/11/15 01:46:08 - INFO     - get_log.py :  44 line - 执行完成
+2022/11/15 01:46:34 - INFO     - get_log.py :  44 line - 执行  test_get_separate_account_no_select
+2022/11/15 01:48:08 - INFO     - get_log.py :  44 line - 执行完成
+2022/11/15 01:50:25 - INFO     - get_log.py :  44 line - 执行  test_get_separate_account_by_money_manager_sfid
+2022/11/15 01:50:25 - INFO     - get_log.py :  44 line - 执行完成
+2022/11/15 01:50:45 - INFO     - get_log.py :  44 line - 执行完成
+2022/11/15 01:51:28 - INFO     - get_log.py :  44 line - 执行  test_get_separate_account_by_name
+2022/11/15 01:51:28 - INFO     - get_log.py :  44 line - 执行完成
+2022/11/15 01:52:25 - INFO     - get_log.py :  44 line - 执行完成
+2022/11/15 01:53:13 - INFO     - get_log.py :  44 line - 执行完成
+2022/11/15 01:54:54 - INFO     - get_log.py :  44 line - 执行完成
+2022/11/15 01:57:10 - INFO     - get_log.py :  44 line - 执行完成
+2022/11/15 01:57:52 - INFO     - get_log.py :  44 line - 执行完成
+2022/11/15 02:00:21 - INFO     - get_log.py :  44 line - 执行完成
+2022/11/15 02:00:54 - INFO     - get_log.py :  44 line - 执行  test_get_uma_by_money_manager_sfid
+2022/11/15 02:00:54 - INFO     - get_log.py :  44 line - 执行完成
+2022/11/15 02:01:40 - INFO     - get_log.py :  44 line - 执行完成
+2022/11/15 02:02:16 - INFO     - get_log.py :  44 line - 执行完成
+2022/11/15 02:02:42 - INFO     - get_log.py :  44 line - 执行  test_delete_separate_account_by_sma_sfid
+2022/11/15 02:02:42 - INFO     - get_log.py :  44 line - 执行完成
+2022/11/15 02:03:22 - INFO     - get_log.py :  44 line - 执行完成
+2022/11/15 02:04:18 - INFO     - get_log.py :  44 line - 执行  test_delete_separate_account_strategy
+2022/11/15 02:04:18 - INFO     - get_log.py :  44 line - 执行完成
+2022/11/15 02:09:07 - INFO     - get_log.py :  44 line - 执行完成
+2022/11/15 03:18:46 - INFO     - get_log.py :  44 line - 执行完成
+2022/11/15 03:21:59 - INFO     - get_log.py :  44 line - 执行  test_add_money_manager
+2022/11/15 03:22:00 - INFO     - get_log.py :  44 line - 执行  test_add_separate_account_sma
+2022/11/15 03:22:02 - INFO     - get_log.py :  44 line - 执行  test_update_separate_account_sma
+2022/11/15 03:22:04 - INFO     - get_log.py :  44 line - 执行  test_add_separate_account_model
+2022/11/15 03:22:06 - INFO     - get_log.py :  44 line - 执行  test_add_separate_account_strategy
+2022/11/15 03:22:11 - INFO     - get_log.py :  44 line - 执行  test_get_separate_account_no_select
+2022/11/15 03:22:15 - INFO     - get_log.py :  44 line - 执行  test_get_separate_account_by_name
+2022/11/15 03:22:18 - INFO     - get_log.py :  44 line - 执行  test_get_security_by_name
+2022/11/15 03:22:19 - INFO     - get_log.py :  44 line - 执行  test_get_uma_by_money_manager_sfid
+2022/11/15 03:22:21 - INFO     - get_log.py :  44 line - 执行  test_delete_separate_account_by_sma_sfid
+2022/11/15 03:22:22 - INFO     - get_log.py :  44 line - 执行  test_delete_separate_account_by_model_sfid
+2022/11/15 03:22:24 - INFO     - get_log.py :  44 line - 执行  test_delete_separate_account_strategy
+2022/11/15 03:22:24 - INFO     - get_log.py :  44 line - 执行完成
+2022/11/15 04:01:02 - INFO     - get_log.py :  44 line - 执行  test_add_money_manager
+2022/11/15 04:01:07 - INFO     - get_log.py :  44 line - 执行  test_add_separate_account_sma
+2022/11/15 04:01:09 - INFO     - get_log.py :  44 line - 执行  test_update_separate_account_sma
+2022/11/15 04:01:12 - INFO     - get_log.py :  44 line - 执行  test_add_separate_account_model
+2022/11/15 04:01:15 - INFO     - get_log.py :  44 line - 执行  test_add_separate_account_strategy
+2022/11/15 04:01:25 - INFO     - get_log.py :  44 line - 执行  test_get_separate_account_no_select
+2022/11/15 04:01:29 - INFO     - get_log.py :  44 line - 执行  test_get_separate_account_by_name
+2022/11/15 04:01:32 - INFO     - get_log.py :  44 line - 执行  test_get_separate_account_by_sfid
+2022/11/15 04:01:35 - INFO     - get_log.py :  44 line - 执行  test_get_security_by_name
+2022/11/15 04:01:39 - INFO     - get_log.py :  44 line - 执行  test_get_uma_by_money_manager_sfid
+2022/11/15 04:01:41 - INFO     - get_log.py :  44 line - 执行  test_delete_separate_account_by_sma_sfid
+2022/11/15 04:01:44 - INFO     - get_log.py :  44 line - 执行  test_delete_separate_account_by_model_sfid
+2022/11/15 04:01:47 - INFO     - get_log.py :  44 line - 执行  test_delete_separate_account_strategy
+2022/11/15 04:01:50 - INFO     - get_log.py :  44 line - 执行完成
+2022/11/16 00:28:38 - INFO     - get_log.py :  44 line - 执行  test_add_money_manager
+2022/11/16 00:28:40 - INFO     - get_log.py :  44 line - 执行  test_add_separate_account_sma
+2022/11/16 00:28:44 - INFO     - get_log.py :  44 line - 执行  test_update_separate_account_sma
+2022/11/16 00:28:46 - INFO     - get_log.py :  44 line - 执行  test_add_separate_account_model
+2022/11/16 00:28:49 - INFO     - get_log.py :  44 line - 执行  test_add_separate_account_strategy
+2022/11/16 00:30:00 - INFO     - get_log.py :  44 line - 执行  test_get_separate_account_no_select
+2022/11/16 00:30:03 - INFO     - get_log.py :  44 line - 执行  test_get_separate_account_by_name
+2022/11/16 00:30:05 - INFO     - get_log.py :  44 line - 执行  test_get_separate_account_by_sfid
+2022/11/16 00:30:06 - INFO     - get_log.py :  44 line - 执行  test_get_security_by_name
+2022/11/16 00:30:08 - INFO     - get_log.py :  44 line - 执行  test_get_uma_by_money_manager_sfid
+2022/11/16 00:30:11 - INFO     - get_log.py :  44 line - 执行  test_delete_separate_account_by_sma_sfid
+2022/11/16 00:30:13 - INFO     - get_log.py :  44 line - 执行  test_delete_separate_account_by_model_sfid
+2022/11/16 00:30:15 - INFO     - get_log.py :  44 line - 执行  test_delete_separate_account_strategy
+2022/11/16 00:30:19 - INFO     - get_log.py :  44 line - 执行完成
+2022/11/16 00:31:40 - INFO     - get_log.py :  44 line - 执行  test_add_money_manager
+2022/11/16 00:31:46 - INFO     - get_log.py :  44 line - 执行  test_add_separate_account_sma
+2022/11/16 00:31:48 - INFO     - get_log.py :  44 line - 执行  test_update_separate_account_sma
+2022/11/16 00:31:53 - INFO     - get_log.py :  44 line - 执行  test_add_separate_account_model
+2022/11/16 00:31:54 - INFO     - get_log.py :  44 line - 执行  test_add_separate_account_strategy
+2022/11/16 00:33:51 - INFO     - get_log.py :  44 line - 执行  test_get_separate_account_no_select
+2022/11/16 00:33:55 - INFO     - get_log.py :  44 line - 执行  test_get_separate_account_by_name
+2022/11/16 00:33:57 - INFO     - get_log.py :  44 line - 执行  test_get_separate_account_by_sfid
+2022/11/16 00:34:00 - INFO     - get_log.py :  44 line - 执行  test_get_security_by_name
+2022/11/16 00:34:03 - INFO     - get_log.py :  44 line - 执行  test_get_uma_by_money_manager_sfid
+2022/11/16 00:34:06 - INFO     - get_log.py :  44 line - 执行  test_delete_separate_account_by_sma_sfid
+2022/11/16 00:34:08 - INFO     - get_log.py :  44 line - 执行  test_delete_separate_account_by_model_sfid
+2022/11/16 00:34:11 - INFO     - get_log.py :  44 line - 执行  test_delete_separate_account_strategy
+2022/11/16 00:34:13 - INFO     - get_log.py :  44 line - 执行完成
+2022/11/16 00:34:32 - INFO     - get_log.py :  44 line - 执行  test_add_money_manager
+2022/11/16 00:34:33 - INFO     - get_log.py :  44 line - 执行  test_add_separate_account_sma
+2022/11/16 00:34:42 - INFO     - get_log.py :  44 line - 执行  test_update_separate_account_sma
+2022/11/16 00:34:47 - INFO     - get_log.py :  44 line - 执行  test_add_separate_account_model
+2022/11/16 00:34:49 - INFO     - get_log.py :  44 line - 执行  test_add_separate_account_strategy
+2022/11/16 00:36:35 - INFO     - get_log.py :  44 line - 执行  test_get_separate_account_no_select
+2022/11/16 00:36:44 - INFO     - get_log.py :  44 line - 执行  test_get_separate_account_by_name
+2022/11/16 00:36:46 - INFO     - get_log.py :  44 line - 执行  test_get_separate_account_by_sfid
+2022/11/16 00:36:47 - INFO     - get_log.py :  44 line - 执行  test_get_security_by_name
+2022/11/16 00:36:49 - INFO     - get_log.py :  44 line - 执行  test_get_uma_by_money_manager_sfid
+2022/11/16 00:36:51 - INFO     - get_log.py :  44 line - 执行  test_delete_separate_account_by_sma_sfid
+2022/11/16 00:36:54 - INFO     - get_log.py :  44 line - 执行  test_delete_separate_account_by_model_sfid
+2022/11/16 00:36:57 - INFO     - get_log.py :  44 line - 执行  test_delete_separate_account_strategy
+2022/11/16 00:37:00 - INFO     - get_log.py :  44 line - 执行完成
+2022/11/16 00:37:11 - INFO     - get_log.py :  44 line - 执行完成
+2022/11/16 00:40:24 - INFO     - get_log.py :  44 line - 执行完成
+2022/11/16 00:44:32 - INFO     - get_log.py :  44 line - 执行完成
+2022/11/16 00:47:29 - INFO     - get_log.py :  44 line - 执行完成
+2022/11/16 00:50:04 - INFO     - get_log.py :  44 line - 执行  test_add_money_manager
+2022/11/16 00:50:06 - INFO     - get_log.py :  44 line - 执行  test_add_separate_account_sma
+2022/11/16 00:50:07 - INFO     - get_log.py :  44 line - 执行  test_add_separate_account_model
+2022/11/16 00:50:09 - INFO     - get_log.py :  44 line - 执行  test_add_separate_account_strategy
+2022/11/16 00:50:15 - INFO     - get_log.py :  44 line - 执行  test_get_cascading_update_by_sma_sfid
+2022/11/16 00:50:19 - INFO     - get_log.py :  44 line - 执行  test_get_cascading_update_by_model_sfid
+2022/11/16 00:51:11 - INFO     - get_log.py :  44 line - 执行  test_delete_separate_account_by_sma_sfid
+2022/11/16 00:51:18 - INFO     - get_log.py :  44 line - 执行  test_delete_separate_account_by_model_sfid
+2022/11/16 00:51:20 - INFO     - get_log.py :  44 line - 执行  test_delete_separate_account_strategy
+2022/11/16 00:51:22 - INFO     - get_log.py :  44 line - 执行完成
+2022/11/16 00:55:38 - INFO     - get_log.py :  44 line - 执行  test_add_money_manager
+2022/11/16 00:55:40 - INFO     - get_log.py :  44 line - 执行  test_add_separate_account_sma
+2022/11/16 00:55:46 - INFO     - get_log.py :  44 line - 执行  test_add_separate_account_model
+2022/11/16 00:55:49 - INFO     - get_log.py :  44 line - 执行  test_add_separate_account_strategy
+2022/11/16 00:55:57 - INFO     - get_log.py :  44 line - 执行  test_get_cascading_update_by_sma_sfid
+2022/11/16 00:56:02 - INFO     - get_log.py :  44 line - 执行  test_get_cascading_update_by_model_sfid
+2022/11/16 00:56:09 - INFO     - get_log.py :  44 line - 执行  test_delete_separate_account_by_sma_sfid
+2022/11/16 00:56:12 - INFO     - get_log.py :  44 line - 执行  test_delete_separate_account_by_model_sfid
+2022/11/16 00:56:15 - INFO     - get_log.py :  44 line - 执行  test_delete_separate_account_strategy
+2022/11/16 00:56:18 - INFO     - get_log.py :  44 line - 执行完成
+2022/11/16 00:58:26 - INFO     - get_log.py :  44 line - 执行  test_add_money_manager
+2022/11/16 00:58:27 - INFO     - get_log.py :  44 line - 执行  test_update_money_manager
+2022/11/16 00:58:29 - INFO     - get_log.py :  44 line - 执行  test_get_money_manager_by_name
+2022/11/16 00:58:30 - INFO     - get_log.py :  44 line - 执行  test_get_money_manager_by_sfid
+2022/11/16 00:59:20 - INFO     - get_log.py :  44 line - 执行完成
+2022/11/16 01:04:00 - INFO     - get_log.py :  44 line - 执行  test_add_money_manager
+2022/11/16 01:04:03 - INFO     - get_log.py :  44 line - 执行  test_update_money_manager
+2022/11/16 01:04:05 - INFO     - get_log.py :  44 line - 执行  test_get_money_manager_by_name
+2022/11/16 01:04:07 - INFO     - get_log.py :  44 line - 执行  test_get_money_manager_by_sfid
+2022/11/16 01:04:08 - INFO     - get_log.py :  44 line - 执行  test_delete_money_manager_by_sfid
+2022/11/16 01:04:08 - INFO     - get_log.py :  44 line - 执行完成
+2022/11/16 01:05:39 - INFO     - get_log.py :  44 line - 执行  test_add_money_manager
+2022/11/16 01:05:42 - INFO     - get_log.py :  44 line - 执行  test_add_separate_account_sma
+2022/11/16 01:05:44 - INFO     - get_log.py :  44 line - 执行  test_update_separate_account_sma
+2022/11/16 01:05:45 - INFO     - get_log.py :  44 line - 执行  test_add_separate_account_model
+2022/11/16 01:05:46 - INFO     - get_log.py :  44 line - 执行  test_add_separate_account_strategy
+2022/11/16 01:07:14 - INFO     - get_log.py :  44 line - 执行  test_get_separate_account_no_select
+2022/11/16 01:07:18 - INFO     - get_log.py :  44 line - 执行  test_get_separate_account_by_name
+2022/11/16 01:07:20 - INFO     - get_log.py :  44 line - 执行  test_get_separate_account_by_sfid
+2022/11/16 01:07:24 - INFO     - get_log.py :  44 line - 执行  test_get_security_by_name
+2022/11/16 01:07:26 - INFO     - get_log.py :  44 line - 执行  test_get_uma_by_money_manager_sfid
+2022/11/16 01:07:28 - INFO     - get_log.py :  44 line - 执行  test_delete_separate_account_by_sma_sfid
+2022/11/16 01:07:30 - INFO     - get_log.py :  44 line - 执行  test_delete_separate_account_by_model_sfid
+2022/11/16 01:07:33 - INFO     - get_log.py :  44 line - 执行  test_delete_separate_account_strategy
+2022/11/16 01:07:34 - INFO     - get_log.py :  44 line - 执行完成
+2022/11/16 01:09:27 - INFO     - get_log.py :  44 line - 执行  test_add_money_manager
+2022/11/16 01:09:30 - INFO     - get_log.py :  44 line - 执行  test_add_separate_account_sma
+2022/11/16 01:09:32 - INFO     - get_log.py :  44 line - 执行  test_add_separate_account_model
+2022/11/16 01:09:34 - INFO     - get_log.py :  44 line - 执行  test_add_separate_account_strategy
+2022/11/16 01:09:41 - INFO     - get_log.py :  44 line - 执行  test_get_cascading_update_by_sma_sfid
+2022/11/16 01:09:44 - INFO     - get_log.py :  44 line - 执行  test_get_cascading_update_by_model_sfid
+2022/11/16 01:09:56 - INFO     - get_log.py :  44 line - 执行  test_delete_separate_account_by_sma_sfid
+2022/11/16 01:09:58 - INFO     - get_log.py :  44 line - 执行  test_delete_separate_account_by_model_sfid
+2022/11/16 01:10:00 - INFO     - get_log.py :  44 line - 执行  test_delete_separate_account_strategy
+2022/11/16 01:10:51 - INFO     - get_log.py :  44 line - 执行完成
+2022/11/16 02:22:17 - INFO     - get_log.py :  44 line - 执行  test_add_money_manager
+2022/11/16 02:22:18 - INFO     - get_log.py :  44 line - 执行  test_update_money_manager
+2022/11/16 02:22:20 - INFO     - get_log.py :  44 line - 执行  test_get_money_manager_by_name
+2022/11/16 02:22:21 - INFO     - get_log.py :  44 line - 执行  test_get_money_manager_by_sfid
+2022/11/16 02:22:23 - INFO     - get_log.py :  44 line - 执行  test_delete_money_manager_by_sfid
+2022/11/16 02:22:23 - INFO     - get_log.py :  44 line - 执行完成
+2022/11/16 02:30:48 - INFO     - get_log.py :  44 line - 执行  test_add_money_manager
+2022/11/16 02:30:51 - INFO     - get_log.py :  44 line - 执行完成
+2022/11/16 02:30:51 - INFO     - get_log.py :  44 line - 执行完成
+2022/11/16 02:32:38 - INFO     - get_log.py :  44 line - 执行  test_add_money_manager
+2022/11/16 02:32:41 - INFO     - get_log.py :  44 line - 执行  test_update_money_manager
+2022/11/16 02:32:43 - INFO     - get_log.py :  44 line - 执行  test_get_money_manager_by_name
+2022/11/16 02:32:46 - INFO     - get_log.py :  44 line - 执行  test_get_money_manager_by_sfid
+2022/11/16 02:32:48 - INFO     - get_log.py :  44 line - 执行  test_delete_money_manager_by_sfid
+2022/11/16 02:32:48 - INFO     - get_log.py :  44 line - 执行完成
+2022/11/16 02:33:19 - INFO     - get_log.py :  44 line - 执行  test_add_money_manager
+2022/11/16 02:33:22 - INFO     - get_log.py :  44 line - 执行  test_update_money_manager
+2022/11/16 02:33:28 - INFO     - get_log.py :  44 line - 执行  test_get_money_manager_by_name
+2022/11/16 02:33:31 - INFO     - get_log.py :  44 line - 执行  test_get_money_manager_by_sfid
+2022/11/16 02:33:37 - INFO     - get_log.py :  44 line - 执行  test_delete_money_manager_by_sfid
+2022/11/16 02:33:37 - INFO     - get_log.py :  44 line - 执行完成
+2022/11/16 02:34:52 - INFO     - get_log.py :  44 line - 执行  test_add_money_manager
+2022/11/16 02:34:58 - INFO     - get_log.py :  44 line - 执行  test_add_separate_account_sma
+2022/11/16 02:34:58 - INFO     - get_log.py :  44 line - 执行完成
+2022/11/16 02:34:58 - INFO     - get_log.py :  44 line - 执行完成
+2022/11/16 02:38:13 - INFO     - get_log.py :  44 line - 执行  test_add_money_manager
+2022/11/16 02:38:19 - INFO     - get_log.py :  44 line - 执行  test_add_separate_account_sma
+2022/11/16 02:38:19 - INFO     - get_log.py :  44 line - 执行完成
+2022/11/16 02:38:19 - INFO     - get_log.py :  44 line - 执行完成
+2022/11/16 02:43:58 - INFO     - get_log.py :  44 line - 执行  test_add_money_manager
+2022/11/16 02:44:03 - INFO     - get_log.py :  44 line - 执行  test_add_separate_account_sma
+2022/11/16 02:44:03 - INFO     - get_log.py :  44 line - 执行完成
+2022/11/16 02:44:03 - INFO     - get_log.py :  44 line - 执行完成
+2022/11/16 02:44:46 - INFO     - get_log.py :  44 line - 执行  test_add_money_manager
+2022/11/16 02:44:46 - INFO     - get_log.py :  44 line - 执行完成
+2022/11/16 02:45:38 - INFO     - get_log.py :  44 line - 执行  test_add_money_manager
+2022/11/16 02:45:44 - INFO     - get_log.py :  44 line - 执行  test_add_separate_account_sma
+2022/11/16 02:45:44 - INFO     - get_log.py :  44 line - 执行完成
+2022/11/16 02:45:44 - INFO     - get_log.py :  44 line - 执行完成
+2022/11/16 02:48:02 - INFO     - get_log.py :  44 line - 执行  test_add_money_manager
+2022/11/16 02:48:07 - INFO     - get_log.py :  44 line - 执行  test_add_separate_account_sma
+2022/11/16 02:48:07 - INFO     - get_log.py :  44 line - 执行完成
+2022/11/16 02:48:07 - INFO     - get_log.py :  44 line - 执行完成
+2022/11/16 22:39:28 - INFO     - get_log.py :  44 line - 执行  test_add_money_manager
+2022/11/16 22:39:30 - INFO     - get_log.py :  44 line - 执行  test_update_money_manager
+2022/11/16 22:39:32 - INFO     - get_log.py :  44 line - 执行  test_get_money_manager_by_name
+2022/11/16 22:39:35 - INFO     - get_log.py :  44 line - 执行  test_get_money_manager_by_sfid
+2022/11/16 22:39:39 - INFO     - get_log.py :  44 line - 执行  test_delete_money_manager_by_sfid
+2022/11/16 22:39:39 - INFO     - get_log.py :  44 line - 执行完成
+2022/11/16 22:55:23 - INFO     - get_log.py :  44 line - 执行  test_add_money_manager
+2022/11/16 22:55:25 - INFO     - get_log.py :  44 line - 执行  test_update_money_manager
+2022/11/16 22:55:29 - INFO     - get_log.py :  44 line - 执行  test_get_money_manager_by_name
+2022/11/16 22:55:30 - INFO     - get_log.py :  44 line - 执行  test_get_money_manager_by_sfid
+2022/11/16 22:55:39 - INFO     - get_log.py :  44 line - 执行  test_get_separate_account_no_select
+2022/11/16 22:55:42 - INFO     - get_log.py :  44 line - 执行  test_get_separate_account_by_name
+2022/11/16 22:55:44 - INFO     - get_log.py :  44 line - 执行  test_get_security_by_name
+2022/11/16 22:55:46 - INFO     - get_log.py :  44 line - 执行  test_delete_money_manager_by_sfid
+2022/11/16 22:55:46 - INFO     - get_log.py :  44 line - 执行完成
+2022/11/16 22:55:46 - INFO     - get_log.py :  44 line - 执行完成
+2022/11/16 23:04:54 - INFO     - get_log.py :  44 line - 执行  test_add_money_manager
+2022/11/16 23:04:59 - INFO     - get_log.py :  44 line - 执行  test_update_money_manager
+2022/11/16 23:05:01 - INFO     - get_log.py :  44 line - 执行  test_get_money_manager_by_name
+2022/11/16 23:05:03 - INFO     - get_log.py :  44 line - 执行  test_get_money_manager_by_sfid
+2022/11/16 23:05:07 - INFO     - get_log.py :  44 line - 执行  test_add_separate_account_sma
+2022/11/16 23:05:09 - INFO     - get_log.py :  44 line - 执行  test_update_separate_account_sma
+2022/11/16 23:05:11 - INFO     - get_log.py :  44 line - 执行  test_add_separate_account_model
+2022/11/16 23:05:12 - INFO     - get_log.py :  44 line - 执行  test_add_separate_account_strategy
+2022/11/16 23:06:29 - INFO     - get_log.py :  44 line - 执行  test_get_separate_account_no_select
+2022/11/16 23:06:32 - INFO     - get_log.py :  44 line - 执行  test_get_separate_account_by_name
+2022/11/16 23:06:34 - INFO     - get_log.py :  44 line - 执行  test_get_separate_account_by_sfid
+2022/11/16 23:06:35 - INFO     - get_log.py :  44 line - 执行  test_get_uma_by_money_manager_sfid
+2022/11/16 23:06:37 - INFO     - get_log.py :  44 line - 执行  test_delete_separate_account_by_sma_sfid
+2022/11/16 23:06:42 - INFO     - get_log.py :  44 line - 执行  test_delete_separate_account_by_model_sfid
+2022/11/16 23:06:44 - INFO     - get_log.py :  44 line - 执行  test_delete_separate_account_strategy
+2022/11/16 23:06:45 - INFO     - get_log.py :  44 line - 执行完成
+2022/11/16 23:06:45 - INFO     - get_log.py :  44 line - 执行完成
+2022/11/16 23:12:20 - INFO     - get_log.py :  44 line - 执行  test_add_money_manager
+2022/11/16 23:12:26 - INFO     - get_log.py :  44 line - 执行  test_update_money_manager
+2022/11/16 23:12:28 - INFO     - get_log.py :  44 line - 执行  test_get_money_manager_by_name
+2022/11/16 23:12:30 - INFO     - get_log.py :  44 line - 执行  test_get_money_manager_by_sfid
+2022/11/16 23:12:35 - INFO     - get_log.py :  44 line - 执行  test_add_separate_account_sma
+2022/11/16 23:12:38 - INFO     - get_log.py :  44 line - 执行  test_update_separate_account_sma
+2022/11/16 23:12:41 - INFO     - get_log.py :  44 line - 执行  test_add_separate_account_model
+2022/11/16 23:12:42 - INFO     - get_log.py :  44 line - 执行  test_add_separate_account_strategy
+2022/11/16 23:13:41 - INFO     - get_log.py :  44 line - 执行  test_get_separate_account_no_select
+2022/11/16 23:13:47 - INFO     - get_log.py :  44 line - 执行  test_get_separate_account_by_name
+2022/11/16 23:13:51 - INFO     - get_log.py :  44 line - 执行  test_get_separate_account_by_sfid
+2022/11/16 23:13:53 - INFO     - get_log.py :  44 line - 执行  test_get_security_by_name
+2022/11/16 23:13:55 - INFO     - get_log.py :  44 line - 执行  test_get_uma_by_money_manager_sfid
+2022/11/16 23:13:58 - INFO     - get_log.py :  44 line - 执行  test_delete_separate_account_by_sma_sfid
+2022/11/16 23:14:01 - INFO     - get_log.py :  44 line - 执行  test_delete_separate_account_by_model_sfid
+2022/11/16 23:14:06 - INFO     - get_log.py :  44 line - 执行  test_delete_separate_account_strategy
+2022/11/16 23:14:08 - INFO     - get_log.py :  44 line - 执行完成
+2022/11/16 23:14:08 - INFO     - get_log.py :  44 line - 执行完成
+2022/11/16 23:22:58 - INFO     - get_log.py :  44 line - 执行  test_add_money_manager
+2022/11/16 23:23:01 - INFO     - get_log.py :  44 line - 执行  test_update_money_manager
+2022/11/16 23:23:03 - INFO     - get_log.py :  44 line - 执行  test_get_money_manager_by_name
+2022/11/16 23:23:06 - INFO     - get_log.py :  44 line - 执行  test_get_money_manager_by_sfid
+2022/11/16 23:23:12 - INFO     - get_log.py :  44 line - 执行  test_add_separate_account_sma
+2022/11/16 23:23:15 - INFO     - get_log.py :  44 line - 执行  test_update_separate_account_sma
+2022/11/16 23:23:21 - INFO     - get_log.py :  44 line - 执行  test_add_separate_account_model
+2022/11/16 23:23:23 - INFO     - get_log.py :  44 line - 执行  test_add_separate_account_strategy
+2022/11/16 23:23:54 - INFO     - get_log.py :  44 line - 执行  test_get_separate_account_no_select
+2022/11/16 23:24:01 - INFO     - get_log.py :  44 line - 执行  test_get_separate_account_by_name
+2022/11/16 23:24:04 - INFO     - get_log.py :  44 line - 执行  test_get_separate_account_by_sfid
+2022/11/16 23:24:06 - INFO     - get_log.py :  44 line - 执行  test_get_security_by_name
+2022/11/16 23:24:09 - INFO     - get_log.py :  44 line - 执行  test_get_uma_by_money_manager_sfid
+2022/11/16 23:24:12 - INFO     - get_log.py :  44 line - 执行  test_delete_separate_account_by_sma_sfid
+2022/11/16 23:24:15 - INFO     - get_log.py :  44 line - 执行  test_delete_separate_account_by_model_sfid
+2022/11/16 23:24:17 - INFO     - get_log.py :  44 line - 执行  test_delete_separate_account_strategy
+2022/11/16 23:24:22 - INFO     - get_log.py :  44 line - 执行完成
+2022/11/16 23:24:22 - INFO     - get_log.py :  44 line - 执行完成
+2022/11/16 23:32:57 - INFO     - get_log.py :  44 line - 执行  test_add_money_manager
+2022/11/16 23:32:59 - INFO     - get_log.py :  44 line - 执行  test_update_money_manager
+2022/11/16 23:33:00 - INFO     - get_log.py :  44 line - 执行  test_get_money_manager_by_name
+2022/11/16 23:33:05 - INFO     - get_log.py :  44 line - 执行  test_get_money_manager_by_sfid
+2022/11/16 23:33:07 - INFO     - get_log.py :  44 line - 执行  test_add_separate_account_sma
+2022/11/16 23:33:09 - INFO     - get_log.py :  44 line - 执行  test_update_separate_account_sma
+2022/11/16 23:33:11 - INFO     - get_log.py :  44 line - 执行  test_add_separate_account_model
+2022/11/16 23:33:13 - INFO     - get_log.py :  44 line - 执行  test_add_separate_account_strategy
+2022/11/16 23:33:56 - INFO     - get_log.py :  44 line - 执行  test_get_separate_account_no_select
+2022/11/16 23:34:02 - INFO     - get_log.py :  44 line - 执行  test_get_separate_account_by_name
+2022/11/16 23:34:03 - INFO     - get_log.py :  44 line - 执行  test_get_separate_account_by_sfid
+2022/11/16 23:34:05 - INFO     - get_log.py :  44 line - 执行  test_get_security_by_name
+2022/11/16 23:34:08 - INFO     - get_log.py :  44 line - 执行  test_get_uma_by_money_manager_sfid
+2022/11/16 23:34:12 - INFO     - get_log.py :  44 line - 执行  test_delete_separate_account_by_sma_sfid
+2022/11/16 23:34:17 - INFO     - get_log.py :  44 line - 执行  test_delete_separate_account_by_model_sfid
+2022/11/16 23:34:20 - INFO     - get_log.py :  44 line - 执行  test_delete_separate_account_strategy
+2022/11/16 23:34:25 - INFO     - get_log.py :  44 line - 执行完成
+2022/11/16 23:47:14 - INFO     - get_log.py :  44 line - 执行  test_add_money_manager
+2022/11/16 23:47:16 - INFO     - get_log.py :  44 line - 执行  test_update_money_manager
+2022/11/16 23:47:18 - INFO     - get_log.py :  44 line - 执行  test_get_money_manager_by_name
+2022/11/16 23:47:20 - INFO     - get_log.py :  44 line - 执行  test_get_money_manager_by_sfid
+2022/11/16 23:47:22 - INFO     - get_log.py :  44 line - 执行  test_add_separate_account_sma
+2022/11/16 23:47:24 - INFO     - get_log.py :  44 line - 执行  test_update_separate_account_sma
+2022/11/16 23:47:26 - INFO     - get_log.py :  44 line - 执行  test_add_separate_account_model
+2022/11/16 23:47:28 - INFO     - get_log.py :  44 line - 执行  test_add_separate_account_strategy
+2022/11/16 23:47:45 - INFO     - get_log.py :  44 line - 执行  test_get_separate_account_no_select
+2022/11/16 23:47:49 - INFO     - get_log.py :  44 line - 执行  test_get_separate_account_by_money_manager_sfid
+2022/11/16 23:47:52 - INFO     - get_log.py :  44 line - 执行  test_get_separate_account_by_name
+2022/11/16 23:47:57 - INFO     - get_log.py :  44 line - 执行  test_get_separate_account_by_sfid
+2022/11/16 23:47:59 - INFO     - get_log.py :  44 line - 执行  test_get_security_by_name
+2022/11/16 23:48:02 - INFO     - get_log.py :  44 line - 执行  test_get_uma_by_money_manager_sfid
+2022/11/16 23:48:06 - INFO     - get_log.py :  44 line - 执行  test_delete_separate_account_by_sma_sfid
+2022/11/16 23:48:09 - INFO     - get_log.py :  44 line - 执行  test_delete_separate_account_by_model_sfid
+2022/11/16 23:48:11 - INFO     - get_log.py :  44 line - 执行  test_delete_separate_account_strategy
+2022/11/16 23:48:17 - INFO     - get_log.py :  44 line - 执行完成
+2022/11/17 00:55:13 - INFO     - get_log.py :  44 line - 执行  test_add_money_manager
+2022/11/17 00:55:15 - INFO     - get_log.py :  44 line - 执行  test_update_money_manager
+2022/11/17 00:55:16 - INFO     - get_log.py :  44 line - 执行  test_get_money_manager_by_name
+2022/11/17 00:55:17 - INFO     - get_log.py :  44 line - 执行  test_get_money_manager_by_sfid
+2022/11/17 00:55:19 - INFO     - get_log.py :  44 line - 执行  test_add_separate_account_sma
+2022/11/17 00:55:20 - INFO     - get_log.py :  44 line - 执行  test_update_separate_account_sma
+2022/11/17 00:55:22 - INFO     - get_log.py :  44 line - 执行  test_add_separate_account_model
+2022/11/17 00:55:23 - INFO     - get_log.py :  44 line - 执行  test_add_separate_account_strategy
+2022/11/17 00:55:23 - INFO     - get_log.py :  44 line - 执行  test_get_separate_account_no_select
+2022/11/17 00:55:28 - INFO     - get_log.py :  44 line - 执行  test_get_separate_account_by_money_manager_sfid
+2022/11/17 00:55:29 - INFO     - get_log.py :  44 line - 执行  test_get_separate_account_by_name
+2022/11/17 00:55:30 - INFO     - get_log.py :  44 line - 执行  test_get_separate_account_by_sfid
+2022/11/17 00:55:31 - INFO     - get_log.py :  44 line - 执行  test_get_separate_account_no_select
+2022/11/17 00:55:32 - INFO     - get_log.py :  44 line - 执行  test_get_security_by_name
+2022/11/17 00:55:33 - INFO     - get_log.py :  44 line - 执行  test_get_uma_by_money_manager_sfid
+2022/11/17 00:55:34 - INFO     - get_log.py :  44 line - 执行  test_delete_separate_account_by_sma_sfid
+2022/11/17 00:55:35 - INFO     - get_log.py :  44 line - 执行  test_get_separate_account_by_money_manager_sfid
+2022/11/17 00:55:36 - INFO     - get_log.py :  44 line - 执行  test_delete_separate_account_by_model_sfid
+2022/11/17 00:55:37 - INFO     - get_log.py :  44 line - 执行  test_get_separate_account_by_name
+2022/11/17 00:55:39 - INFO     - get_log.py :  44 line - 执行  test_get_separate_account_by_sfid
+2022/11/17 00:55:39 - INFO     - get_log.py :  44 line - 执行  test_delete_separate_account_strategy
+2022/11/17 00:55:40 - INFO     - get_log.py :  44 line - 执行  test_get_security_by_name
+2022/11/17 00:55:42 - INFO     - get_log.py :  44 line - 执行  test_get_uma_by_money_manager_sfid
+2022/11/17 00:55:44 - INFO     - get_log.py :  44 line - 执行  test_delete_separate_account_by_sma_sfid
+2022/11/17 00:55:47 - INFO     - get_log.py :  44 line - 执行  test_get_cascading_update_by_sma_sfid
+2022/11/17 00:55:47 - INFO     - get_log.py :  44 line - 执行  test_delete_separate_account_by_model_sfid
+2022/11/17 00:55:49 - INFO     - get_log.py :  44 line - 执行  test_delete_separate_account_strategy
+2022/11/17 00:55:49 - INFO     - get_log.py :  44 line - 执行  test_get_cascading_update_by_model_sfid
+2022/11/17 00:55:55 - INFO     - get_log.py :  44 line - 执行  test_get_cascading_update_by_sma_sfid
+2022/11/17 00:55:58 - INFO     - get_log.py :  44 line - 执行  test_get_cascading_update_by_model_sfid
+2022/11/17 00:56:07 - INFO     - get_log.py :  44 line - 执行完成
+2022/11/17 00:58:53 - INFO     - get_log.py :  44 line - 执行  test_add_money_manager
+2022/11/17 00:58:56 - INFO     - get_log.py :  44 line - 执行  test_update_money_manager
+2022/11/17 00:58:58 - INFO     - get_log.py :  44 line - 执行  test_get_money_manager_by_name
+2022/11/17 00:59:03 - INFO     - get_log.py :  44 line - 执行  test_get_money_manager_by_sfid
+2022/11/17 00:59:04 - INFO     - get_log.py :  44 line - 执行  test_add_separate_account_sma
+2022/11/17 00:59:07 - INFO     - get_log.py :  44 line - 执行  test_update_separate_account_sma
+2022/11/17 00:59:11 - INFO     - get_log.py :  44 line - 执行  test_add_separate_account_model
+2022/11/17 00:59:13 - INFO     - get_log.py :  44 line - 执行  test_add_separate_account_strategy
+2022/11/17 00:59:27 - INFO     - get_log.py :  44 line - 执行  test_get_cascading_update_by_sma_sfid
+2022/11/17 00:59:31 - INFO     - get_log.py :  44 line - 执行  test_get_cascading_update_by_model_sfid
+2022/11/17 00:59:56 - INFO     - get_log.py :  44 line - 执行  test_get_separate_account_no_select
+2022/11/17 01:00:01 - INFO     - get_log.py :  44 line - 执行  test_get_separate_account_by_money_manager_sfid
+2022/11/17 01:00:04 - INFO     - get_log.py :  44 line - 执行  test_get_separate_account_by_name
+2022/11/17 01:00:10 - INFO     - get_log.py :  44 line - 执行  test_get_separate_account_by_sfid
+2022/11/17 01:00:12 - INFO     - get_log.py :  44 line - 执行  test_get_security_by_name
+2022/11/17 01:00:14 - INFO     - get_log.py :  44 line - 执行  test_get_uma_by_money_manager_sfid
+2022/11/17 01:00:17 - INFO     - get_log.py :  44 line - 执行  test_delete_separate_account_by_sma_sfid
+2022/11/17 01:00:20 - INFO     - get_log.py :  44 line - 执行  test_delete_separate_account_by_model_sfid
+2022/11/17 01:00:23 - INFO     - get_log.py :  44 line - 执行  test_delete_separate_account_strategy
+2022/11/17 01:00:28 - INFO     - get_log.py :  44 line - 执行完成
+2022/11/17 01:09:40 - INFO     - get_log.py :  44 line - 执行  test_add_money_manager
+2022/11/17 01:09:44 - INFO     - get_log.py :  44 line - 执行  test_update_money_manager
+2022/11/17 01:09:47 - INFO     - get_log.py :  44 line - 执行  test_get_money_manager_by_name
+2022/11/17 01:09:51 - INFO     - get_log.py :  44 line - 执行  test_get_money_manager_by_sfid
+2022/11/17 01:09:52 - INFO     - get_log.py :  44 line - 执行  test_add_separate_account_sma
+2022/11/17 01:09:55 - INFO     - get_log.py :  44 line - 执行  test_update_separate_account_sma
+2022/11/17 01:09:57 - INFO     - get_log.py :  44 line - 执行  test_add_separate_account_model
+2022/11/17 01:10:01 - INFO     - get_log.py :  44 line - 执行  test_add_separate_account_strategy
+2022/11/17 01:10:10 - INFO     - get_log.py :  44 line - 执行  test_get_cascading_update_by_sma_sfid
+2022/11/17 01:10:12 - INFO     - get_log.py :  44 line - 执行  test_get_cascading_update_by_model_sfid
+2022/11/17 01:11:00 - INFO     - get_log.py :  44 line - 执行  test_get_separate_account_no_select
+2022/11/17 01:11:06 - INFO     - get_log.py :  44 line - 执行  test_get_separate_account_by_money_manager_sfid
+2022/11/17 01:11:08 - INFO     - get_log.py :  44 line - 执行  test_get_separate_account_by_name
+2022/11/17 01:11:14 - INFO     - get_log.py :  44 line - 执行  test_get_separate_account_by_sfid
+2022/11/17 01:11:16 - INFO     - get_log.py :  44 line - 执行  test_get_security_by_name
+2022/11/17 01:11:20 - INFO     - get_log.py :  44 line - 执行  test_get_uma_by_money_manager_sfid
+2022/11/17 01:11:22 - INFO     - get_log.py :  44 line - 执行  test_delete_separate_account_by_sma_sfid
+2022/11/17 01:11:24 - INFO     - get_log.py :  44 line - 执行  test_delete_separate_account_by_model_sfid
+2022/11/17 01:11:26 - INFO     - get_log.py :  44 line - 执行  test_delete_separate_account_strategy
+2022/11/17 01:11:31 - INFO     - get_log.py :  44 line - 执行完成
+2022/11/17 05:39:37 - INFO     - get_log.py :  44 line - 执行  test_add_money_manager
+2022/11/17 05:39:39 - INFO     - get_log.py :  44 line - 执行  test_update_money_manager
+2022/11/17 05:39:40 - INFO     - get_log.py :  44 line - 执行  test_get_money_manager_by_name
+2022/11/17 05:39:41 - INFO     - get_log.py :  44 line - 执行  test_get_money_manager_by_sfid
+2022/11/17 05:39:42 - INFO     - get_log.py :  44 line - 执行  test_add_separate_account_sma
+2022/11/17 05:39:44 - INFO     - get_log.py :  44 line - 执行  test_update_separate_account_sma
+2022/11/17 05:39:45 - INFO     - get_log.py :  44 line - 执行  test_add_separate_account_model
+2022/11/17 05:39:46 - INFO     - get_log.py :  44 line - 执行  test_add_separate_account_strategy
+2022/11/17 05:39:47 - INFO     - get_log.py :  44 line - 1668634776838jkA6e
+2022/11/17 05:39:47 - INFO     - get_log.py :  44 line - 1668634782357ve9D9
+2022/11/17 05:39:47 - INFO     - get_log.py :  44 line - 1668634786661lMAzt
+2022/11/17 05:39:52 - INFO     - get_log.py :  44 line - 执行  test_get_cascading_update_by_sma_sfid
+2022/11/17 05:39:53 - INFO     - get_log.py :  44 line - 执行  test_get_cascading_update_by_model_sfid
+2022/11/17 05:40:32 - INFO     - get_log.py :  44 line - 执行  test_get_separate_account_no_select
+2022/11/17 05:41:02 - INFO     - get_log.py :  44 line - 执行  test_get_separate_account_by_money_manager_sfid
+2022/11/17 05:41:21 - INFO     - get_log.py :  44 line - 执行完成
+2022/11/17 22:39:22 - INFO     - get_log.py :  44 line - 执行  test_add_money_manager
+2022/11/17 22:39:24 - INFO     - get_log.py :  44 line - 执行  test_update_money_manager
+2022/11/17 22:39:25 - INFO     - get_log.py :  44 line - 执行  test_get_money_manager_by_name
+2022/11/17 22:39:28 - INFO     - get_log.py :  44 line - 执行  test_get_money_manager_by_sfid
+2022/11/17 22:39:33 - INFO     - get_log.py :  44 line - 执行  test_add_separate_account_sma
+2022/11/17 22:39:35 - INFO     - get_log.py :  44 line - 执行  test_update_separate_account_sma
+2022/11/17 22:39:37 - INFO     - get_log.py :  44 line - 执行  test_add_separate_account_model
+2022/11/17 22:39:39 - INFO     - get_log.py :  44 line - 执行  test_add_separate_account_strategy
+2022/11/17 22:39:40 - INFO     - get_log.py :  44 line - 1668634776838jkA6e
+2022/11/17 22:39:40 - INFO     - get_log.py :  44 line - 1668695971548ausln
+2022/11/17 22:39:40 - INFO     - get_log.py :  44 line - 1668695979598DBL1b
+2022/11/17 22:39:40 - INFO     - get_log.py :  44 line - 10.0
+2022/11/17 22:39:46 - INFO     - get_log.py :  44 line - 执行  test_get_cascading_update_by_sma_sfid
+2022/11/17 22:39:48 - INFO     - get_log.py :  44 line - 执行  test_get_cascading_update_by_model_sfid
+2022/11/17 22:41:48 - INFO     - get_log.py :  44 line - 执行  test_get_separate_account_no_select
+2022/11/17 22:41:54 - INFO     - get_log.py :  44 line - 执行  test_get_separate_account_by_money_manager_sfid
+2022/11/17 22:41:55 - INFO     - get_log.py :  44 line - 执行  test_get_separate_account_by_name
+2022/11/17 22:41:58 - INFO     - get_log.py :  44 line - 执行  test_get_separate_account_by_sfid
+2022/11/17 22:42:00 - INFO     - get_log.py :  44 line - 执行  test_get_security_by_name
+2022/11/17 22:42:03 - INFO     - get_log.py :  44 line - 执行  test_get_uma_by_money_manager_sfid
+2022/11/17 22:42:04 - INFO     - get_log.py :  44 line - 执行  test_delete_separate_account_by_sma_sfid
+2022/11/17 22:42:08 - INFO     - get_log.py :  44 line - 执行  test_delete_separate_account_by_model_sfid
+2022/11/17 22:42:09 - INFO     - get_log.py :  44 line - 执行  test_delete_separate_account_strategy
+2022/11/17 22:42:14 - INFO     - get_log.py :  44 line - 执行完成
+2022/11/17 22:58:13 - INFO     - get_log.py :  44 line - 执行  test_add_money_manager
+2022/11/17 22:58:15 - INFO     - get_log.py :  44 line - 执行  test_update_money_manager
+2022/11/17 22:58:16 - INFO     - get_log.py :  44 line - 执行  test_get_money_manager_by_name
+2022/11/17 22:58:18 - INFO     - get_log.py :  44 line - 执行  test_get_money_manager_by_sfid
+2022/11/17 22:58:22 - INFO     - get_log.py :  44 line - 执行  test_delete_money_manager_by_sfid
+2022/11/17 22:58:22 - INFO     - get_log.py :  44 line - 执行完成
+2022/11/17 23:05:24 - INFO     - get_log.py :  44 line - 执行  test_add_money_manager
+2022/11/17 23:05:26 - INFO     - get_log.py :  44 line - 执行  test_update_money_manager
+2022/11/17 23:05:32 - INFO     - get_log.py :  44 line - 执行  test_get_money_manager_by_name
+2022/11/17 23:05:34 - INFO     - get_log.py :  44 line - 执行  test_get_money_manager_by_sfid
+2022/11/17 23:05:37 - INFO     - get_log.py :  44 line - 执行  test_add_separate_account_sma
+2022/11/17 23:05:40 - INFO     - get_log.py :  44 line - 执行  test_update_separate_account_sma
+2022/11/17 23:05:43 - INFO     - get_log.py :  44 line - 执行  test_add_separate_account_model
+2022/11/17 23:05:46 - INFO     - get_log.py :  44 line - 执行  test_add_separate_account_strategy
+2022/11/17 23:05:46 - INFO     - get_log.py :  44 line - 16686975244203li3A
+2022/11/17 23:05:46 - INFO     - get_log.py :  44 line - 16686975372955ZMyP
+2022/11/17 23:05:46 - INFO     - get_log.py :  44 line - 1668697546359Hjy8g
+2022/11/17 23:05:46 - INFO     - get_log.py :  44 line - 10.0
+2022/11/17 23:05:53 - INFO     - get_log.py :  44 line - 执行  test_get_cascading_update_by_sma_sfid
+2022/11/17 23:05:55 - INFO     - get_log.py :  44 line - 执行  test_get_cascading_update_by_model_sfid
+2022/11/17 23:07:35 - INFO     - get_log.py :  44 line - 执行  test_get_separate_account_no_select
+2022/11/17 23:07:46 - INFO     - get_log.py :  44 line - 执行  test_get_separate_account_by_money_manager_sfid
+2022/11/17 23:07:47 - INFO     - get_log.py :  44 line - 执行  test_get_separate_account_by_name
+2022/11/17 23:07:49 - INFO     - get_log.py :  44 line - 执行  test_get_separate_account_by_sfid
+2022/11/17 23:07:53 - INFO     - get_log.py :  44 line - 执行  test_get_security_by_name
+2022/11/17 23:22:51 - INFO     - get_log.py :  44 line - 执行  test_add_money_manager
+2022/11/17 23:22:55 - INFO     - get_log.py :  44 line - 执行  test_update_money_manager
+2022/11/17 23:22:56 - INFO     - get_log.py :  44 line - 执行  test_get_money_manager_by_name
+2022/11/17 23:23:00 - INFO     - get_log.py :  44 line - 执行  test_get_money_manager_by_sfid
+2022/11/17 23:23:01 - INFO     - get_log.py :  44 line - 执行  test_add_separate_account_sma
+2022/11/17 23:23:04 - INFO     - get_log.py :  44 line - 执行  test_update_separate_account_sma
+2022/11/17 23:23:08 - INFO     - get_log.py :  44 line - 执行  test_add_separate_account_model
+2022/11/17 23:23:10 - INFO     - get_log.py :  44 line - 执行  test_add_separate_account_strategy
+2022/11/17 23:23:11 - INFO     - get_log.py :  44 line - 16686975244203li3A
+2022/11/17 23:23:11 - INFO     - get_log.py :  44 line - 16686975372955ZMyP
+2022/11/17 23:23:11 - INFO     - get_log.py :  44 line - 1668697546359Hjy8g
+2022/11/17 23:23:11 - INFO     - get_log.py :  44 line - 10.0
+2022/11/17 23:23:19 - INFO     - get_log.py :  44 line - 执行  test_get_cascading_update_by_sma_sfid
+2022/11/17 23:23:25 - INFO     - get_log.py :  44 line - 执行  test_get_cascading_update_by_model_sfid
+2022/11/17 23:25:16 - INFO     - get_log.py :  44 line - 执行  test_get_separate_account_no_select
+2022/11/17 23:25:28 - INFO     - get_log.py :  44 line - 执行  test_get_separate_account_by_money_manager_sfid
+2022/11/17 23:25:29 - INFO     - get_log.py :  44 line - 执行  test_get_separate_account_by_name
+2022/11/17 23:25:32 - INFO     - get_log.py :  44 line - 执行  test_get_separate_account_by_sfid
+2022/11/17 23:25:33 - INFO     - get_log.py :  44 line - 执行  test_get_security_by_name
+2022/11/17 23:25:35 - INFO     - get_log.py :  44 line - 执行  test_get_uma_by_money_manager_sfid
+2022/11/17 23:25:38 - INFO     - get_log.py :  44 line - 执行  test_delete_separate_account_by_sma_sfid
+2022/11/17 23:25:40 - INFO     - get_log.py :  44 line - 执行  test_delete_separate_account_by_model_sfid
+2022/11/17 23:25:43 - INFO     - get_log.py :  44 line - 执行  test_delete_separate_account_strategy
+2022/11/17 23:25:49 - INFO     - get_log.py :  44 line - 执行完成
+2022/11/17 23:52:54 - INFO     - get_log.py :  44 line - 执行  test_add_money_manager
+2022/11/17 23:52:56 - INFO     - get_log.py :  44 line - 执行  test_update_money_manager
+2022/11/17 23:52:58 - INFO     - get_log.py :  44 line - 执行  test_get_money_manager_by_name
+2022/11/17 23:53:03 - INFO     - get_log.py :  44 line - 执行  test_get_money_manager_by_sfid
+2022/11/17 23:53:04 - INFO     - get_log.py :  44 line - 执行  test_add_separate_account_sma
+2022/11/17 23:53:09 - INFO     - get_log.py :  44 line - 执行  test_update_separate_account_sma
+2022/11/17 23:53:12 - INFO     - get_log.py :  44 line - 执行  test_add_separate_account_model
+2022/11/17 23:53:14 - INFO     - get_log.py :  44 line - 执行  test_add_separate_account_strategy
+2022/11/17 23:53:15 - INFO     - get_log.py :  44 line - 1668700374320LwMAy
+2022/11/17 23:53:15 - INFO     - get_log.py :  44 line - 1668700384945MTc7E
+2022/11/17 23:53:15 - INFO     - get_log.py :  44 line - 16687003945204tSdf
+2022/11/17 23:53:15 - INFO     - get_log.py :  44 line - 10.0
+2022/11/17 23:53:24 - INFO     - get_log.py :  44 line - 执行  test_get_cascading_update_by_sma_sfid
+2022/11/17 23:53:25 - INFO     - get_log.py :  44 line - 执行  test_get_cascading_update_by_model_sfid
+2022/11/17 23:55:34 - INFO     - get_log.py :  44 line - 执行  test_get_separate_account_no_select
+2022/11/17 23:55:38 - INFO     - get_log.py :  44 line - 执行  test_get_separate_account_by_money_manager_sfid
+2022/11/17 23:55:39 - INFO     - get_log.py :  44 line - 执行  test_get_separate_account_by_name
+2022/11/17 23:55:43 - INFO     - get_log.py :  44 line - 执行  test_get_separate_account_by_sfid
+2022/11/17 23:55:46 - INFO     - get_log.py :  44 line - 执行  test_get_security_by_name
+2022/11/17 23:55:47 - INFO     - get_log.py :  44 line - 执行  test_get_uma_by_money_manager_sfid
+2022/11/17 23:55:49 - INFO     - get_log.py :  44 line - 执行  test_delete_separate_account_by_sma_sfid
+2022/11/17 23:55:52 - INFO     - get_log.py :  44 line - 执行  test_delete_separate_account_by_model_sfid
+2022/11/17 23:55:58 - INFO     - get_log.py :  44 line - 执行  test_delete_separate_account_strategy
+2022/11/17 23:56:02 - INFO     - get_log.py :  44 line - 执行完成
+2022/11/18 00:01:32 - INFO     - get_log.py :  44 line - 执行  test_add_money_manager
+2022/11/18 00:01:34 - INFO     - get_log.py :  44 line - 执行  test_update_money_manager
+2022/11/18 00:01:35 - INFO     - get_log.py :  44 line - 执行  test_get_money_manager_by_name
+2022/11/18 00:01:37 - INFO     - get_log.py :  44 line - 执行  test_get_money_manager_by_sfid
+2022/11/18 00:01:40 - INFO     - get_log.py :  44 line - 执行  test_add_separate_account_sma
+2022/11/18 00:01:42 - INFO     - get_log.py :  44 line - 执行  test_update_separate_account_sma
+2022/11/18 00:01:43 - INFO     - get_log.py :  44 line - 执行  test_add_separate_account_model
+2022/11/18 00:01:46 - INFO     - get_log.py :  44 line - 执行  test_add_separate_account_strategy
+2022/11/18 00:01:46 - INFO     - get_log.py :  44 line - 1668700374320LwMAy
+2022/11/18 00:01:46 - INFO     - get_log.py :  44 line - 1668700900375500t8
+2022/11/18 00:01:46 - INFO     - get_log.py :  44 line - 1668700906359NAdfj
+2022/11/18 00:01:46 - INFO     - get_log.py :  44 line - 10.0
+2022/11/18 00:01:55 - INFO     - get_log.py :  44 line - 执行  test_get_cascading_update_by_sma_sfid
+2022/11/18 00:01:59 - INFO     - get_log.py :  44 line - 执行  test_get_cascading_update_by_model_sfid
+2022/11/18 00:04:22 - INFO     - get_log.py :  44 line - 执行  test_get_separate_account_no_select
+2022/11/18 00:04:29 - INFO     - get_log.py :  44 line - 执行  test_get_separate_account_by_money_manager_sfid
+2022/11/18 00:04:30 - INFO     - get_log.py :  44 line - 执行  test_get_separate_account_by_name
+2022/11/18 00:04:32 - INFO     - get_log.py :  44 line - 执行  test_get_separate_account_by_sfid
+2022/11/18 00:04:36 - INFO     - get_log.py :  44 line - 执行  test_get_security_by_name
+2022/11/18 00:04:38 - INFO     - get_log.py :  44 line - 执行  test_get_uma_by_money_manager_sfid
+2022/11/18 00:04:41 - INFO     - get_log.py :  44 line - 执行  test_delete_separate_account_by_sma_sfid
+2022/11/18 00:04:42 - INFO     - get_log.py :  44 line - 执行  test_delete_separate_account_by_model_sfid
+2022/11/18 00:04:45 - INFO     - get_log.py :  44 line - 执行  test_delete_separate_account_strategy
+2022/11/18 00:04:56 - INFO     - get_log.py :  44 line - 执行完成
+2022/11/18 00:08:11 - INFO     - get_log.py :  44 line - 执行  test_add_money_manager
+2022/11/18 00:08:13 - INFO     - get_log.py :  44 line - 执行  test_update_money_manager
+2022/11/18 00:09:04 - INFO     - get_log.py :  44 line - 执行  test_get_money_manager_by_sfid
+2022/11/18 00:09:11 - INFO     - get_log.py :  44 line - 执行  test_add_separate_account_sma
+2022/11/18 00:09:15 - INFO     - get_log.py :  44 line - 执行  test_update_separate_account_sma
+2022/11/18 00:09:17 - INFO     - get_log.py :  44 line - 执行  test_add_separate_account_model
+2022/11/18 00:09:19 - INFO     - get_log.py :  44 line - 执行  test_add_separate_account_strategy
+2022/11/18 00:09:23 - INFO     - get_log.py :  44 line - 执行  test_add_cascading_update_sma
+2022/11/18 00:09:26 - INFO     - get_log.py :  44 line - 执行  test_add_cascading_update_model
+2022/11/18 00:09:30 - INFO     - get_log.py :  44 line - 执行  test_get_cascading_update_by_sma_sfid
+2022/11/18 00:09:36 - INFO     - get_log.py :  44 line - 执行  test_get_cascading_update_by_model_sfid
+2022/11/18 00:11:25 - INFO     - get_log.py :  44 line - 执行  test_get_separate_account_no_select
+2022/11/18 00:11:32 - INFO     - get_log.py :  44 line - 执行  test_get_separate_account_by_money_manager_sfid
+2022/11/18 00:11:34 - INFO     - get_log.py :  44 line - 执行  test_get_separate_account_by_name
+2022/11/18 00:11:46 - INFO     - get_log.py :  44 line - 执行  test_get_separate_account_by_sfid
+2022/11/18 00:11:48 - INFO     - get_log.py :  44 line - 执行  test_get_security_by_name
+2022/11/18 00:11:49 - INFO     - get_log.py :  44 line - 执行  test_get_uma_by_money_manager_sfid
+2022/11/18 00:11:53 - INFO     - get_log.py :  44 line - 执行  test_delete_separate_account_by_sma_sfid
+2022/11/18 00:12:48 - INFO     - get_log.py :  44 line - 执行  test_delete_separate_account_strategy
+2022/11/18 00:12:52 - INFO     - get_log.py :  44 line - 执行完成
+2022/11/18 00:15:01 - INFO     - get_log.py :  44 line - 执行  test_add_money_manager
+2022/11/18 00:15:03 - INFO     - get_log.py :  44 line - 执行  test_update_money_manager
+2022/11/18 00:15:06 - INFO     - get_log.py :  44 line - 执行  test_get_money_manager_by_name
+2022/11/18 00:15:09 - INFO     - get_log.py :  44 line - 执行  test_get_money_manager_by_sfid
+2022/11/18 00:15:12 - INFO     - get_log.py :  44 line - 执行  test_add_separate_account_sma
+2022/11/18 00:15:14 - INFO     - get_log.py :  44 line - 执行  test_update_separate_account_sma
+2022/11/18 00:15:17 - INFO     - get_log.py :  44 line - 执行  test_add_separate_account_model
+2022/11/18 00:15:18 - INFO     - get_log.py :  44 line - 执行  test_add_separate_account_strategy
+2022/11/18 00:15:20 - INFO     - get_log.py :  44 line - 执行  test_add_cascading_update_sma
+2022/11/18 00:15:22 - INFO     - get_log.py :  44 line - 执行  test_add_cascading_update_model
+2022/11/18 00:15:24 - INFO     - get_log.py :  44 line - 执行  test_get_cascading_update_by_sma_sfid
+2022/11/18 00:15:27 - INFO     - get_log.py :  44 line - 执行  test_get_cascading_update_by_model_sfid
+2022/11/18 00:17:22 - INFO     - get_log.py :  44 line - 执行  test_get_separate_account_no_select
+2022/11/18 00:17:27 - INFO     - get_log.py :  44 line - 执行  test_get_separate_account_by_money_manager_sfid
+2022/11/18 00:17:29 - INFO     - get_log.py :  44 line - 执行  test_get_separate_account_by_name
+2022/11/18 00:17:32 - INFO     - get_log.py :  44 line - 执行  test_get_separate_account_by_sfid
+2022/11/18 00:17:34 - INFO     - get_log.py :  44 line - 执行  test_get_security_by_name
+2022/11/18 00:17:36 - INFO     - get_log.py :  44 line - 执行  test_get_uma_by_money_manager_sfid
+2022/11/18 00:17:43 - INFO     - get_log.py :  44 line - 执行  test_delete_separate_account_by_sma_sfid
+2022/11/18 00:17:47 - INFO     - get_log.py :  44 line - 执行  test_delete_separate_account_by_model_sfid
+2022/11/18 00:17:49 - INFO     - get_log.py :  44 line - 执行  test_delete_separate_account_strategy
+2022/11/18 00:17:55 - INFO     - get_log.py :  44 line - 执行完成
+2022/11/18 01:52:31 - INFO     - get_log.py :  44 line - 执行  test_add_money_manager
+2022/11/18 01:52:37 - INFO     - get_log.py :  44 line - 执行  test_update_money_manager
+2022/11/18 01:52:39 - INFO     - get_log.py :  44 line - 执行  test_get_money_manager_by_name
+2022/11/18 01:52:40 - INFO     - get_log.py :  44 line - 执行  test_get_money_manager_by_sfid
+2022/11/18 01:52:43 - INFO     - get_log.py :  44 line - 执行  test_add_separate_account_sma
+2022/11/18 01:53:31 - INFO     - get_log.py :  44 line - 执行  test_add_separate_account_model
+2022/11/18 01:53:33 - INFO     - get_log.py :  44 line - 执行  test_add_separate_account_strategy
+2022/11/18 01:53:37 - INFO     - get_log.py :  44 line - 执行  test_add_cascading_update_sma
+2022/11/18 01:53:38 - INFO     - get_log.py :  44 line - 执行  test_add_cascading_update_model
+2022/11/18 01:53:42 - INFO     - get_log.py :  44 line - 执行  test_get_cascading_update_by_sma_sfid
+2022/11/18 01:53:47 - INFO     - get_log.py :  44 line - 执行  test_get_cascading_update_by_model_sfid
+2022/11/18 01:55:10 - INFO     - get_log.py :  44 line - 执行  test_get_separate_account_no_select
+2022/11/18 01:55:14 - INFO     - get_log.py :  44 line - 执行  test_get_separate_account_by_money_manager_sfid
+2022/11/18 01:55:15 - INFO     - get_log.py :  44 line - 执行  test_get_separate_account_by_name
+2022/11/18 01:55:17 - INFO     - get_log.py :  44 line - 执行  test_get_separate_account_by_sfid
+2022/11/18 01:55:19 - INFO     - get_log.py :  44 line - 执行  test_get_security_by_name
+2022/11/18 01:55:23 - INFO     - get_log.py :  44 line - 执行  test_get_uma_by_money_manager_sfid
+2022/11/18 01:55:26 - INFO     - get_log.py :  44 line - 执行  test_delete_separate_account_by_sma_sfid
+2022/11/18 01:55:29 - INFO     - get_log.py :  44 line - 执行  test_delete_separate_account_by_model_sfid
+2022/11/18 01:55:31 - INFO     - get_log.py :  44 line - 执行  test_delete_separate_account_strategy
+2022/11/18 01:55:40 - INFO     - get_log.py :  44 line - 执行完成
+2022/11/18 01:59:13 - INFO     - get_log.py :  44 line - 执行  test_add_money_manager
+2022/11/18 01:59:14 - INFO     - get_log.py :  44 line - 执行  test_update_money_manager
+2022/11/18 01:59:15 - INFO     - get_log.py :  44 line - 执行  test_get_money_manager_by_name
+2022/11/18 01:59:20 - INFO     - get_log.py :  44 line - 执行  test_get_money_manager_by_sfid
+2022/11/18 01:59:23 - INFO     - get_log.py :  44 line - 执行  test_add_separate_account_sma
+2022/11/18 01:59:27 - INFO     - get_log.py :  44 line - 执行  test_update_separate_account_sma
+2022/11/18 01:59:30 - INFO     - get_log.py :  44 line - 执行  test_add_separate_account_model
+2022/11/18 01:59:31 - INFO     - get_log.py :  44 line - 执行  test_add_separate_account_strategy
+2022/11/18 01:59:35 - INFO     - get_log.py :  44 line - 执行  test_add_cascading_update_sma
+2022/11/18 01:59:37 - INFO     - get_log.py :  44 line - 执行  test_add_cascading_update_model
+2022/11/18 01:59:39 - INFO     - get_log.py :  44 line - 执行  test_get_cascading_update_by_sma_sfid
+2022/11/18 01:59:39 - INFO     - get_log.py :  44 line - 执行完成
+2022/11/18 02:04:18 - INFO     - get_log.py :  44 line - 执行  test_add_money_manager
+2022/11/18 02:04:20 - INFO     - get_log.py :  44 line - 执行  test_update_money_manager
+2022/11/18 02:04:21 - INFO     - get_log.py :  44 line - 执行  test_get_money_manager_by_name
+2022/11/18 02:04:23 - INFO     - get_log.py :  44 line - 执行  test_get_money_manager_by_sfid
+2022/11/18 02:04:24 - INFO     - get_log.py :  44 line - 执行  test_add_separate_account_sma
+2022/11/18 02:04:26 - INFO     - get_log.py :  44 line - 执行  test_update_separate_account_sma
+2022/11/18 02:04:27 - INFO     - get_log.py :  44 line - 执行  test_add_separate_account_model
+2022/11/18 02:04:29 - INFO     - get_log.py :  44 line - 执行  test_add_separate_account_strategy
+2022/11/18 02:04:29 - INFO     - get_log.py :  44 line - 执行完成
+2022/11/18 02:06:05 - INFO     - get_log.py :  44 line - 执行  test_add_cascading_update_sma
+2022/11/18 02:06:08 - INFO     - get_log.py :  44 line - 执行  test_add_cascading_update_model
+2022/11/18 02:07:45 - INFO     - get_log.py :  44 line - 执行  test_get_cascading_update_by_sma_sfid
+2022/11/18 02:07:47 - INFO     - get_log.py :  44 line - 执行  test_get_cascading_update_by_model_sfid
+2022/11/18 02:14:13 - INFO     - get_log.py :  44 line - 1668708267736ryXXK
+2022/11/18 02:23:33 - INFO     - get_log.py :  44 line - 1668708368606shdgM
+2022/11/18 02:23:37 - INFO     - get_log.py :  44 line - 执行  test_delete_cascading_update_by_model_sfid
+2022/11/18 02:26:28 - INFO     - get_log.py :  44 line - 执行  test_delete_cascading_update_by_sma_sfid
+2022/11/18 02:28:09 - INFO     - get_log.py :  44 line - 执行  test_get_separate_account_no_select
+2022/11/18 02:28:13 - INFO     - get_log.py :  44 line - 执行  test_get_separate_account_by_money_manager_sfid
+2022/11/18 02:28:17 - INFO     - get_log.py :  44 line - 执行  test_get_separate_account_by_name
+2022/11/18 02:28:19 - INFO     - get_log.py :  44 line - 执行  test_get_separate_account_by_sfid
+2022/11/18 02:28:21 - INFO     - get_log.py :  44 line - 执行  test_get_security_by_name
+2022/11/18 02:28:22 - INFO     - get_log.py :  44 line - 执行  test_get_uma_by_money_manager_sfid
+2022/11/18 02:28:24 - INFO     - get_log.py :  44 line - 执行  test_delete_separate_account_by_sma_sfid
+2022/11/18 02:28:26 - INFO     - get_log.py :  44 line - 执行  test_delete_separate_account_by_model_sfid
+2022/11/18 02:28:30 - INFO     - get_log.py :  44 line - 执行  test_delete_separate_account_strategy
+2022/11/18 02:28:36 - INFO     - get_log.py :  44 line - 执行完成
+2022/11/18 02:34:06 - INFO     - get_log.py :  44 line - 执行  test_delete_separate_account_by_sma_sfid
+2022/11/18 02:34:11 - INFO     - get_log.py :  44 line - 执行  test_delete_separate_account_by_model_sfid
+2022/11/18 02:34:13 - INFO     - get_log.py :  44 line - 执行  test_delete_separate_account_strategy
+2022/11/18 02:34:22 - INFO     - get_log.py :  44 line - 执行完成
+2022/11/18 02:39:20 - INFO     - get_log.py :  44 line - 执行  test_delete_separate_account_by_sma_sfid
+2022/11/18 02:39:23 - INFO     - get_log.py :  44 line - 执行  test_delete_separate_account_strategy
+2022/11/18 02:39:31 - INFO     - get_log.py :  44 line - 执行完成
+2022/11/18 02:42:31 - INFO     - get_log.py :  44 line - 16687082646921hw75
+2022/11/18 02:42:36 - INFO     - get_log.py :  44 line - 执行  test_delete_separate_account_by_sma_sfid
+2022/11/18 02:42:45 - INFO     - get_log.py :  44 line - 执行  test_delete_separate_account_strategy
+2022/11/18 02:42:53 - INFO     - get_log.py :  44 line - 执行完成
+2022/11/18 02:44:18 - INFO     - get_log.py :  44 line - 16687082646921hw75
+2022/11/18 02:44:19 - INFO     - get_log.py :  44 line - 执行  test_delete_separate_account_by_sma_sfid
+2022/11/18 02:44:26 - INFO     - get_log.py :  44 line - 执行完成
+2022/11/18 05:00:30 - INFO     - get_log.py :  44 line - 执行完成
+2022/11/18 23:29:53 - INFO     - get_log.py :  44 line - 执行  test_delete_separate_account_strategy
+2022/11/18 23:29:57 - INFO     - get_log.py :  44 line - 执行  test_delete_money_manager_by_sfid
+2022/11/18 23:31:46 - INFO     - get_log.py :  44 line - 执行  test_add_money_manager
+2022/11/18 23:31:49 - INFO     - get_log.py :  44 line - 执行  test_update_money_manager
+2022/11/18 23:31:50 - INFO     - get_log.py :  44 line - 执行  test_get_money_manager_by_name
+2022/11/18 23:31:53 - INFO     - get_log.py :  44 line - 执行  test_get_money_manager_by_sfid
+2022/11/18 23:31:55 - INFO     - get_log.py :  44 line - 执行  test_add_separate_account_sma
+2022/11/18 23:32:02 - INFO     - get_log.py :  44 line - 执行  test_update_separate_account_sma
+2022/11/18 23:32:03 - INFO     - get_log.py :  44 line - 执行  test_add_separate_account_model
+2022/11/18 23:32:05 - INFO     - get_log.py :  44 line - 执行  test_add_separate_account_strategy
+2022/11/18 23:32:08 - INFO     - get_log.py :  44 line - 执行  test_add_cascading_update_sma
+2022/11/18 23:32:13 - INFO     - get_log.py :  44 line - 执行  test_add_cascading_update_model
+2022/11/18 23:32:15 - INFO     - get_log.py :  44 line - 执行  test_get_cascading_update_by_sma_sfid
+2022/11/18 23:32:23 - INFO     - get_log.py :  44 line - 执行  test_get_cascading_update_by_model_sfid
+2022/11/18 23:32:27 - INFO     - get_log.py :  44 line - 执行  test_delete_cascading_update_by_model_sfid
+2022/11/18 23:32:31 - INFO     - get_log.py :  44 line - 执行  test_delete_cascading_update_by_sma_sfid
+2022/11/18 23:33:30 - INFO     - get_log.py :  44 line - 执行  test_get_separate_account_no_select
+2022/11/18 23:33:35 - INFO     - get_log.py :  44 line - 执行  test_get_separate_account_by_money_manager_sfid
+2022/11/18 23:33:38 - INFO     - get_log.py :  44 line - 执行  test_get_separate_account_by_name
+2022/11/18 23:33:40 - INFO     - get_log.py :  44 line - 执行  test_get_separate_account_by_sfid
+2022/11/18 23:33:41 - INFO     - get_log.py :  44 line - 执行  test_get_security_by_name
+2022/11/18 23:33:43 - INFO     - get_log.py :  44 line - 执行  test_get_uma_by_money_manager_sfid
+2022/11/18 23:33:44 - INFO     - get_log.py :  44 line - 1668785516278y8280
+2022/11/18 23:33:45 - INFO     - get_log.py :  44 line - 执行  test_delete_separate_account_by_sma_sfid
+2022/11/18 23:33:47 - INFO     - get_log.py :  44 line - 执行  test_delete_separate_account_by_model_sfid
+2022/11/18 23:33:50 - INFO     - get_log.py :  44 line - 执行  test_delete_separate_account_strategy
+2022/11/18 23:33:54 - INFO     - get_log.py :  44 line - 执行  test_delete_money_manager_by_sfid
+2022/11/18 23:42:35 - INFO     - get_log.py :  44 line - 执行  test_add_money_manager
+2022/11/18 23:42:38 - INFO     - get_log.py :  44 line - 执行  test_update_money_manager
+2022/11/18 23:42:46 - INFO     - get_log.py :  44 line - 执行  test_get_money_manager_by_name
+2022/11/18 23:42:48 - INFO     - get_log.py :  44 line - 执行  test_get_money_manager_by_sfid
+2022/11/18 23:42:51 - INFO     - get_log.py :  44 line - 执行  test_add_separate_account_sma
+2022/11/18 23:42:56 - INFO     - get_log.py :  44 line - 执行  test_update_separate_account_sma
+2022/11/18 23:42:58 - INFO     - get_log.py :  44 line - 执行  test_add_separate_account_model
+2022/11/18 23:43:00 - INFO     - get_log.py :  44 line - 执行  test_add_separate_account_strategy
+2022/11/18 23:43:03 - INFO     - get_log.py :  44 line - 执行  test_add_cascading_update_sma
+2022/11/18 23:43:05 - INFO     - get_log.py :  44 line - 执行  test_add_cascading_update_model
+2022/11/18 23:43:07 - INFO     - get_log.py :  44 line - 执行  test_get_cascading_update_by_sma_sfid
+2022/11/18 23:43:09 - INFO     - get_log.py :  44 line - 执行  test_get_cascading_update_by_model_sfid
+2022/11/18 23:43:11 - INFO     - get_log.py :  44 line - 执行  test_delete_cascading_update_by_model_sfid
+2022/11/18 23:43:14 - INFO     - get_log.py :  44 line - 执行  test_delete_cascading_update_by_sma_sfid
+2022/11/18 23:43:25 - INFO     - get_log.py :  44 line - 执行  test_get_separate_account_no_select
+2022/11/18 23:43:30 - INFO     - get_log.py :  44 line - 执行  test_get_separate_account_by_money_manager_sfid
+2022/11/18 23:43:32 - INFO     - get_log.py :  44 line - 执行  test_get_separate_account_by_name
+2022/11/18 23:43:35 - INFO     - get_log.py :  44 line - 执行  test_get_separate_account_by_sfid
+2022/11/18 23:43:36 - INFO     - get_log.py :  44 line - 执行  test_get_security_by_name
+2022/11/18 23:43:37 - INFO     - get_log.py :  44 line - 执行  test_get_uma_by_money_manager_sfid
+2022/11/18 23:43:37 - INFO     - get_log.py :  44 line - 16687861722798eIme
+2022/11/18 23:43:40 - INFO     - get_log.py :  44 line - 执行  test_delete_separate_account_by_sma_sfid
+2022/11/18 23:43:41 - INFO     - get_log.py :  44 line - 执行  test_delete_separate_account_by_model_sfid
+2022/11/18 23:43:44 - INFO     - get_log.py :  44 line - 执行  test_delete_separate_account_strategy
+2022/11/18 23:43:48 - INFO     - get_log.py :  44 line - 执行  test_delete_money_manager_by_sfid
+2022/11/19 00:48:55 - INFO     - get_log.py :  44 line - 执行  test_add_money_manager
+2022/11/19 00:48:56 - INFO     - get_log.py :  44 line - 执行  test_update_money_manager
+2022/11/19 00:48:57 - INFO     - get_log.py :  44 line - 执行  test_get_money_manager_by_name
+2022/11/19 00:49:44 - INFO     - get_log.py :  44 line - 执行  test_add_separate_account_sma
+2022/11/19 00:49:47 - INFO     - get_log.py :  44 line - 执行  test_update_separate_account_sma
+2022/11/19 00:50:33 - INFO     - get_log.py :  44 line - 执行  test_add_separate_account_strategy
+2022/11/19 00:50:37 - INFO     - get_log.py :  44 line - 执行  test_add_cascading_update_sma
+2022/11/19 00:50:39 - INFO     - get_log.py :  44 line - 执行  test_get_cascading_update_by_sma_sfid
+2022/11/19 00:50:42 - INFO     - get_log.py :  44 line - 执行  test_delete_cascading_update_by_sma_sfid
+2022/11/19 00:51:18 - INFO     - get_log.py :  44 line - 执行  test_get_separate_account_no_select
+2022/11/19 00:51:23 - INFO     - get_log.py :  44 line - 执行  test_get_separate_account_by_money_manager_sfid
+2022/11/19 00:51:24 - INFO     - get_log.py :  44 line - 执行  test_get_separate_account_by_name
+2022/11/19 00:51:25 - INFO     - get_log.py :  44 line - 执行  test_get_separate_account_by_sfid
+2022/11/19 00:51:28 - INFO     - get_log.py :  44 line - 执行  test_get_security_by_name
+2022/11/19 00:51:31 - INFO     - get_log.py :  44 line - 执行  test_get_uma_by_money_manager_sfid
+2022/11/19 00:51:31 - INFO     - get_log.py :  44 line - 1668790185281CtDNc
+2022/11/19 00:51:32 - INFO     - get_log.py :  44 line - 执行  test_delete_separate_account_by_sma_sfid
+2022/11/19 00:52:03 - INFO     - get_log.py :  44 line - 执行  test_add_money_manager
+2022/11/19 00:52:05 - INFO     - get_log.py :  44 line - 执行  test_update_money_manager
+2022/11/19 00:52:07 - INFO     - get_log.py :  44 line - 执行  test_get_money_manager_by_name
+2022/11/19 00:52:08 - INFO     - get_log.py :  44 line - 执行  test_get_money_manager_by_sfid
+2022/11/19 00:52:10 - INFO     - get_log.py :  44 line - 执行  test_add_separate_account_sma
+2022/11/19 00:52:11 - INFO     - get_log.py :  44 line - 执行  test_update_separate_account_sma
+2022/11/19 00:52:13 - INFO     - get_log.py :  44 line - 执行  test_add_separate_account_model
+2022/11/19 00:52:17 - INFO     - get_log.py :  44 line - 执行  test_add_separate_account_strategy
+2022/11/19 00:53:06 - INFO     - get_log.py :  44 line - 执行  test_add_cascading_update_model
+2022/11/19 00:53:08 - INFO     - get_log.py :  44 line - 执行  test_get_cascading_update_by_sma_sfid
+2022/11/19 00:53:09 - INFO     - get_log.py :  44 line - 执行  test_get_cascading_update_by_model_sfid
+2022/11/19 00:53:13 - INFO     - get_log.py :  44 line - 执行  test_delete_cascading_update_by_model_sfid
+2022/11/19 00:53:55 - INFO     - get_log.py :  44 line - 执行  test_get_separate_account_no_select
+2022/11/19 00:53:59 - INFO     - get_log.py :  44 line - 执行  test_get_separate_account_by_money_manager_sfid
+2022/11/19 00:54:00 - INFO     - get_log.py :  44 line - 执行  test_get_separate_account_by_name
+2022/11/19 00:54:02 - INFO     - get_log.py :  44 line - 执行  test_get_separate_account_by_sfid
+2022/11/19 00:54:03 - INFO     - get_log.py :  44 line - 执行  test_get_security_by_name
+2022/11/19 00:54:04 - INFO     - get_log.py :  44 line - 执行  test_get_uma_by_money_manager_sfid
+2022/11/19 00:54:05 - INFO     - get_log.py :  44 line - 1668790330622VsH2k
+2022/11/19 00:54:06 - INFO     - get_log.py :  44 line - 执行  test_delete_separate_account_by_sma_sfid
+2022/11/19 00:54:08 - INFO     - get_log.py :  44 line - 执行  test_delete_separate_account_by_model_sfid
+2022/11/19 00:56:26 - INFO     - get_log.py :  44 line - 执行  test_get_product_detail_by_strategy_sfid
+2022/11/19 01:03:00 - INFO     - get_log.py :  44 line - 执行  test_get_product_detail_by_strategy_sfid
+2022/11/19 01:09:31 - INFO     - get_log.py :  44 line - 执行  test_add_product_detail
+2022/11/19 01:09:34 - INFO     - get_log.py :  44 line - 执行  test_update_product_detail
+2022/11/19 01:09:36 - INFO     - get_log.py :  44 line - 执行  test_get_product_detail_by_strategy_sfid
+2022/11/19 01:10:32 - INFO     - get_log.py :  44 line - 执行  test_get_product_detail_by_strategy_sfid
+2022/11/19 01:10:36 - INFO     - get_log.py :  44 line - 执行  test_delete_product_detail_by_sfid
+2022/11/19 01:10:39 - INFO     - get_log.py :  44 line - 执行  test_delete_separate_account_strategy
+2022/11/19 01:10:43 - INFO     - get_log.py :  44 line - 执行  test_delete_money_manager_by_sfid
+2022/11/19 01:11:34 - INFO     - get_log.py :  44 line - 执行  test_add_money_manager
+2022/11/19 01:11:37 - INFO     - get_log.py :  44 line - 执行  test_update_money_manager
+2022/11/19 01:11:39 - INFO     - get_log.py :  44 line - 执行  test_get_money_manager_by_name
+2022/11/19 01:11:40 - INFO     - get_log.py :  44 line - 执行  test_get_money_manager_by_sfid
+2022/11/19 01:11:42 - INFO     - get_log.py :  44 line - 执行  test_add_separate_account_sma
+2022/11/19 01:11:43 - INFO     - get_log.py :  44 line - 执行  test_update_separate_account_sma
+2022/11/19 01:11:45 - INFO     - get_log.py :  44 line - 执行  test_add_separate_account_model
+2022/11/19 01:11:47 - INFO     - get_log.py :  44 line - 执行  test_add_separate_account_strategy
+2022/11/19 01:11:48 - INFO     - get_log.py :  44 line - 执行  test_add_cascading_update_sma
+2022/11/19 01:11:50 - INFO     - get_log.py :  44 line - 执行  test_add_cascading_update_model
+2022/11/19 01:11:52 - INFO     - get_log.py :  44 line - 执行  test_get_cascading_update_by_sma_sfid
+2022/11/19 01:11:53 - INFO     - get_log.py :  44 line - 执行  test_get_cascading_update_by_model_sfid
+2022/11/19 01:11:56 - INFO     - get_log.py :  44 line - 执行  test_delete_cascading_update_by_model_sfid
+2022/11/19 01:11:58 - INFO     - get_log.py :  44 line - 执行  test_delete_cascading_update_by_sma_sfid
+2022/11/19 01:12:03 - INFO     - get_log.py :  44 line - 执行  test_get_separate_account_by_money_manager_sfid
+2022/11/19 01:12:04 - INFO     - get_log.py :  44 line - 执行  test_get_separate_account_by_name
+2022/11/19 01:12:06 - INFO     - get_log.py :  44 line - 执行  test_get_separate_account_by_sfid
+2022/11/19 01:12:07 - INFO     - get_log.py :  44 line - 执行  test_get_security_by_name
+2022/11/19 01:12:10 - INFO     - get_log.py :  44 line - 执行  test_get_uma_by_money_manager_sfid
+2022/11/19 01:12:10 - INFO     - get_log.py :  44 line - 1668791502601uREGR
+2022/11/19 01:12:11 - INFO     - get_log.py :  44 line - 执行  test_delete_separate_account_by_sma_sfid
+2022/11/19 01:12:13 - INFO     - get_log.py :  44 line - 执行  test_delete_separate_account_by_model_sfid
+2022/11/19 01:12:14 - INFO     - get_log.py :  44 line - 执行  test_add_product_detail
+2022/11/19 01:12:17 - INFO     - get_log.py :  44 line - 执行  test_update_product_detail
+2022/11/19 01:12:18 - INFO     - get_log.py :  44 line - 执行  test_get_product_detail_by_strategy_sfid
+2022/11/19 01:12:24 - INFO     - get_log.py :  44 line - 执行  test_delete_product_detail_by_sfid
+2022/11/19 01:12:25 - INFO     - get_log.py :  44 line - 执行  test_delete_separate_account_strategy
+2022/11/19 01:12:30 - INFO     - get_log.py :  44 line - 执行  test_delete_money_manager_by_sfid
+2022/11/19 01:16:37 - INFO     - get_log.py :  44 line - 执行  test_add_money_manager
+2022/11/19 01:17:24 - INFO     - get_log.py :  44 line - 执行  test_get_money_manager_by_name
+2022/11/19 01:17:25 - INFO     - get_log.py :  44 line - 执行  test_get_money_manager_by_sfid
+2022/11/19 01:17:27 - INFO     - get_log.py :  44 line - 执行  test_add_separate_account_sma
+2022/11/19 01:17:28 - INFO     - get_log.py :  44 line - 执行  test_update_separate_account_sma
+2022/11/19 01:17:30 - INFO     - get_log.py :  44 line - 执行  test_add_separate_account_model
+2022/11/19 01:17:31 - INFO     - get_log.py :  44 line - 执行  test_add_separate_account_strategy
+2022/11/19 01:17:33 - INFO     - get_log.py :  44 line - 执行  test_add_cascading_update_sma
+2022/11/19 01:17:35 - INFO     - get_log.py :  44 line - 执行  test_add_cascading_update_model
+2022/11/19 01:17:36 - INFO     - get_log.py :  44 line - 执行  test_get_cascading_update_by_sma_sfid
+2022/11/19 01:17:38 - INFO     - get_log.py :  44 line - 执行  test_get_cascading_update_by_model_sfid
+2022/11/19 01:17:40 - INFO     - get_log.py :  44 line - 执行  test_delete_cascading_update_by_model_sfid
+2022/11/19 01:17:42 - INFO     - get_log.py :  44 line - 执行  test_delete_cascading_update_by_sma_sfid
+2022/11/19 01:17:45 - INFO     - get_log.py :  44 line - 执行  test_get_separate_account_no_select
+2022/11/19 01:17:49 - INFO     - get_log.py :  44 line - 执行  test_get_separate_account_by_money_manager_sfid
+2022/11/19 01:17:50 - INFO     - get_log.py :  44 line - 执行  test_get_separate_account_by_name
+2022/11/19 01:17:52 - INFO     - get_log.py :  44 line - 执行  test_get_separate_account_by_sfid
+2022/11/19 01:17:53 - INFO     - get_log.py :  44 line - 执行  test_get_security_by_name
+2022/11/19 01:17:55 - INFO     - get_log.py :  44 line - 执行  test_get_uma_by_money_manager_sfid
+2022/11/19 01:17:56 - INFO     - get_log.py :  44 line - 16687918477007x9wg
+2022/11/19 01:17:57 - INFO     - get_log.py :  44 line - 执行  test_delete_separate_account_by_sma_sfid
+2022/11/19 01:17:58 - INFO     - get_log.py :  44 line - 执行  test_delete_separate_account_by_model_sfid
+2022/11/19 01:18:00 - INFO     - get_log.py :  44 line - 执行  test_add_product_detail
+2022/11/19 01:18:02 - INFO     - get_log.py :  44 line - 执行  test_update_product_detail
+2022/11/19 01:18:07 - INFO     - get_log.py :  44 line - 执行  test_get_product_detail_by_strategy_sfid
+2022/11/19 01:18:55 - INFO     - get_log.py :  44 line - 执行  test_delete_separate_account_strategy
+2022/11/19 01:19:00 - INFO     - get_log.py :  44 line - 执行  test_delete_money_manager_by_sfid
+2022/11/21 22:52:46 - INFO     - get_log.py :  44 line - 执行  test_add_money_manager
+2022/11/21 22:52:48 - INFO     - get_log.py :  44 line - 执行  test_update_money_manager
+2022/11/21 22:52:49 - INFO     - get_log.py :  44 line - 执行  test_get_money_manager_by_name
+2022/11/21 22:52:51 - INFO     - get_log.py :  44 line - 执行  test_get_money_manager_by_sfid
+2022/11/21 22:52:54 - INFO     - get_log.py :  44 line - 执行  test_add_separate_account_sma
+2022/11/21 22:52:56 - INFO     - get_log.py :  44 line - 执行  test_update_separate_account_sma
+2022/11/21 22:52:58 - INFO     - get_log.py :  44 line - 执行  test_add_separate_account_model
+2022/11/21 22:53:47 - INFO     - get_log.py :  44 line - 执行  test_get_cascading_update_by_sma_sfid
+2022/11/21 22:53:49 - INFO     - get_log.py :  44 line - 执行  test_get_cascading_update_by_model_sfid
+2022/11/21 22:54:42 - INFO     - get_log.py :  44 line - 执行  test_get_separate_account_no_select
+2022/11/21 22:54:48 - INFO     - get_log.py :  44 line - 执行  test_get_separate_account_by_money_manager_sfid
+2022/11/21 22:55:37 - INFO     - get_log.py :  44 line - 执行  test_get_separate_account_by_sfid
+2022/11/21 22:55:38 - INFO     - get_log.py :  44 line - 执行  test_get_security_by_name
+2022/11/21 22:55:41 - INFO     - get_log.py :  44 line - 执行  test_get_uma_by_money_manager_sfid
+2022/11/21 22:55:41 - INFO     - get_log.py :  44 line - 1669042374219RdjpK
+2022/11/21 22:55:42 - INFO     - get_log.py :  44 line - 执行  test_delete_separate_account_by_sma_sfid
+2022/11/21 22:55:44 - INFO     - get_log.py :  44 line - 执行  test_delete_separate_account_by_model_sfid
+2022/11/21 22:55:51 - INFO     - get_log.py :  44 line - 执行  test_delete_money_manager_by_sfid
+2022/11/21 22:57:51 - INFO     - get_log.py :  44 line - 执行  test_add_money_manager
+2022/11/21 22:57:53 - INFO     - get_log.py :  44 line - 执行  test_update_money_manager
+2022/11/21 22:57:54 - INFO     - get_log.py :  44 line - 执行  test_get_money_manager_by_name
+2022/11/21 22:57:55 - INFO     - get_log.py :  44 line - 执行  test_get_money_manager_by_sfid
+2022/11/21 22:57:57 - INFO     - get_log.py :  44 line - 执行  test_add_separate_account_sma
+2022/11/21 22:57:59 - INFO     - get_log.py :  44 line - 执行  test_update_separate_account_sma
+2022/11/21 22:58:01 - INFO     - get_log.py :  44 line - 执行  test_add_separate_account_model
+2022/11/21 22:58:02 - INFO     - get_log.py :  44 line - 执行  test_add_separate_account_strategy
+2022/11/21 22:58:04 - INFO     - get_log.py :  44 line - 执行  test_add_cascading_update_sma
+2022/11/21 22:58:07 - INFO     - get_log.py :  44 line - 执行  test_add_cascading_update_model
+2022/11/21 22:58:08 - INFO     - get_log.py :  44 line - 执行  test_get_cascading_update_by_sma_sfid
+2022/11/21 22:58:10 - INFO     - get_log.py :  44 line - 执行  test_get_cascading_update_by_model_sfid
+2022/11/21 22:58:14 - INFO     - get_log.py :  44 line - 执行  test_delete_cascading_update_by_model_sfid
+2022/11/21 22:58:16 - INFO     - get_log.py :  44 line - 执行  test_delete_cascading_update_by_sma_sfid
+2022/11/21 22:58:19 - INFO     - get_log.py :  44 line - 执行  test_get_separate_account_no_select
+2022/11/21 22:58:25 - INFO     - get_log.py :  44 line - 执行  test_get_separate_account_by_money_manager_sfid
+2022/11/21 22:58:28 - INFO     - get_log.py :  44 line - 执行  test_get_separate_account_by_name
+2022/11/21 22:58:29 - INFO     - get_log.py :  44 line - 执行  test_get_separate_account_by_sfid
+2022/11/21 22:58:32 - INFO     - get_log.py :  44 line - 执行  test_get_security_by_name
+2022/11/21 22:58:33 - INFO     - get_log.py :  44 line - 执行  test_get_uma_by_money_manager_sfid
+2022/11/21 22:58:34 - INFO     - get_log.py :  44 line - 1669042676941n6axH
+2022/11/21 22:58:35 - INFO     - get_log.py :  44 line - 执行  test_delete_separate_account_by_sma_sfid
+2022/11/21 22:58:36 - INFO     - get_log.py :  44 line - 执行  test_delete_separate_account_by_model_sfid
+2022/11/21 22:58:38 - INFO     - get_log.py :  44 line - 执行  test_add_product_detail
+2022/11/21 22:58:41 - INFO     - get_log.py :  44 line - 执行  test_update_product_detail
+2022/11/21 22:58:42 - INFO     - get_log.py :  44 line - 执行  test_get_product_detail_by_strategy_sfid
+2022/11/21 22:58:47 - INFO     - get_log.py :  44 line - 执行  test_delete_product_detail_by_sfid
+2022/11/21 22:58:56 - INFO     - get_log.py :  44 line - 执行  test_delete_separate_account_strategy
+2022/11/21 22:59:00 - INFO     - get_log.py :  44 line - 执行  test_delete_money_manager_by_sfid
+2022/12/11 21:29:17 - INFO     - get_log.py :  44 line - 执行  test_add_money_manager
+2022/12/11 21:29:23 - INFO     - get_log.py :  44 line - 执行  test_update_money_manager
+2022/12/11 21:29:24 - INFO     - get_log.py :  44 line - 执行  test_get_money_manager_by_name
+2022/12/11 21:29:26 - INFO     - get_log.py :  44 line - 执行  test_get_money_manager_by_sfid
+2022/12/11 21:29:28 - INFO     - get_log.py :  44 line - 执行  test_add_separate_account_sma
+2022/12/11 21:29:31 - INFO     - get_log.py :  44 line - 执行  test_update_separate_account_sma
+2022/12/11 21:29:33 - INFO     - get_log.py :  44 line - 执行  test_add_separate_account_model
+2022/12/11 21:29:34 - INFO     - get_log.py :  44 line - 执行  test_add_separate_account_strategy
+2022/12/11 21:29:37 - INFO     - get_log.py :  44 line - 执行  test_add_cascading_update_sma
+2022/12/11 21:29:39 - INFO     - get_log.py :  44 line - 执行  test_add_cascading_update_model
+2022/12/11 21:29:40 - INFO     - get_log.py :  44 line - 执行  test_get_cascading_update_by_sma_sfid
+2022/12/11 21:29:45 - INFO     - get_log.py :  44 line - 执行  test_get_cascading_update_by_model_sfid
+2022/12/11 21:29:50 - INFO     - get_log.py :  44 line - 执行  test_delete_cascading_update_by_model_sfid
+2022/12/11 21:29:52 - INFO     - get_log.py :  44 line - 执行  test_delete_cascading_update_by_sma_sfid
+2022/12/11 21:30:01 - INFO     - get_log.py :  44 line - 执行  test_get_separate_account_no_select
+2022/12/11 21:30:06 - INFO     - get_log.py :  44 line - 执行  test_get_separate_account_by_money_manager_sfid
+2022/12/11 21:30:07 - INFO     - get_log.py :  44 line - 执行  test_get_separate_account_by_name
+2022/12/11 21:30:09 - INFO     - get_log.py :  44 line - 执行  test_get_separate_account_by_sfid
+2022/12/11 21:30:10 - INFO     - get_log.py :  44 line - 执行  test_get_security_by_name
+2022/12/11 21:30:11 - INFO     - get_log.py :  44 line - 执行  test_get_uma_by_money_manager_sfid
+2022/12/11 21:30:11 - INFO     - get_log.py :  44 line - 16707653681433WaW0
+2022/12/11 21:30:12 - INFO     - get_log.py :  44 line - 执行  test_delete_separate_account_by_sma_sfid
+2022/12/11 21:30:14 - INFO     - get_log.py :  44 line - 执行  test_delete_separate_account_by_model_sfid
+2022/12/11 21:30:17 - INFO     - get_log.py :  44 line - 执行  test_add_product_detail
+2022/12/11 21:30:21 - INFO     - get_log.py :  44 line - 执行  test_update_product_detail
+2022/12/11 21:30:24 - INFO     - get_log.py :  44 line - 执行  test_get_product_detail_by_strategy_sfid
+2022/12/11 21:30:29 - INFO     - get_log.py :  44 line - 执行  test_delete_product_detail_by_sfid
+2022/12/11 21:30:30 - INFO     - get_log.py :  44 line - 执行  test_delete_separate_account_strategy
+2022/12/11 21:30:34 - INFO     - get_log.py :  44 line - 执行  test_delete_money_manager_by_sfid
+2023/02/02 12:38:14 - INFO     - get_log.py :  44 line - 执行  test_add_money_manager
+2023/02/02 12:38:26 - INFO     - get_log.py :  44 line - 执行  test_update_money_manager
+2023/02/02 12:38:33 - INFO     - get_log.py :  44 line - 执行  test_get_money_manager_by_name
+2023/02/02 12:38:36 - INFO     - get_log.py :  44 line - 执行  test_get_money_manager_by_sfid
+2023/02/02 12:38:41 - INFO     - get_log.py :  44 line - 执行  test_add_separate_account_sma
+2023/02/02 12:38:44 - INFO     - get_log.py :  44 line - 执行  test_update_separate_account_sma
+2023/02/02 12:38:48 - INFO     - get_log.py :  44 line - 执行  test_add_separate_account_model
+2023/02/02 12:38:52 - INFO     - get_log.py :  44 line - 执行  test_add_separate_account_strategy
+2023/02/02 12:38:57 - INFO     - get_log.py :  44 line - 执行  test_add_cascading_update_sma
+2023/02/02 12:39:03 - INFO     - get_log.py :  44 line - 执行  test_add_cascading_update_model
+2023/02/02 12:39:06 - INFO     - get_log.py :  44 line - 执行  test_get_cascading_update_by_sma_sfid
+2023/02/02 12:39:08 - INFO     - get_log.py :  44 line - 执行  test_get_cascading_update_by_model_sfid
+2023/02/02 12:39:10 - INFO     - get_log.py :  44 line - 执行  test_delete_cascading_update_by_model_sfid
+2023/02/02 12:39:14 - INFO     - get_log.py :  44 line - 执行  test_delete_cascading_update_by_sma_sfid
+2023/02/02 12:39:35 - INFO     - get_log.py :  44 line - 执行  test_get_separate_account_no_select
+2023/02/02 12:39:39 - INFO     - get_log.py :  44 line - 执行  test_get_separate_account_by_money_manager_sfid
+2023/02/02 12:39:43 - INFO     - get_log.py :  44 line - 执行  test_get_separate_account_by_name
+2023/02/02 12:39:48 - INFO     - get_log.py :  44 line - 执行  test_get_separate_account_by_sfid
+2023/02/02 12:39:50 - INFO     - get_log.py :  44 line - 执行  test_get_security_by_name
+2023/02/02 12:39:57 - INFO     - get_log.py :  44 line - 执行  test_get_uma_by_money_manager_sfid
+2023/02/02 12:39:58 - INFO     - get_log.py :  44 line - 1675312721981adp55
+2023/02/02 12:39:59 - INFO     - get_log.py :  44 line - 执行  test_delete_separate_account_by_sma_sfid
+2023/02/02 12:40:06 - INFO     - get_log.py :  44 line - 执行  test_delete_separate_account_by_model_sfid
+2023/02/02 12:40:11 - INFO     - get_log.py :  44 line - 执行  test_add_product_detail
+2023/02/02 12:40:18 - INFO     - get_log.py :  44 line - 执行  test_update_product_detail
+2023/02/02 12:40:20 - INFO     - get_log.py :  44 line - 执行  test_get_product_detail_by_strategy_sfid
+2023/02/02 12:40:29 - INFO     - get_log.py :  44 line - 执行  test_delete_product_detail_by_sfid
+2023/02/02 12:40:38 - INFO     - get_log.py :  44 line - 执行  test_delete_separate_account_strategy
+2023/02/02 12:40:47 - INFO     - get_log.py :  44 line - 执行  test_delete_money_manager_by_sfid

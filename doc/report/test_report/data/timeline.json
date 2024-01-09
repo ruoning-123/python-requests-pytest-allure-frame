@@ -1,0 +1,73 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "CKNAAHABOSCSSGK",
+    "children" : [ {
+      "name" : "5684-MainThread",
+      "children" : [ {
+        "name" : "test_get_money_manager_by_name",
+        "uid" : "582e90cdba3a927e",
+        "parentUid" : "79fc5e312629d5407d9a75923e843604",
+        "status" : "failed",
+        "time" : {
+          "start" : 1704579894224,
+          "stop" : 1704579895737,
+          "duration" : 1513
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_update_money_manager",
+        "uid" : "aed169c1f175a5da",
+        "parentUid" : "79fc5e312629d5407d9a75923e843604",
+        "status" : "broken",
+        "time" : {
+          "start" : 1704579893734,
+          "stop" : 1704579894215,
+          "duration" : 481
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_add_money_manager",
+        "uid" : "3213375d60510afb",
+        "parentUid" : "79fc5e312629d5407d9a75923e843604",
+        "status" : "failed",
+        "time" : {
+          "start" : 1704579892036,
+          "stop" : 1704579893571,
+          "duration" : 1535
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_delete_money_manager_by_sfid",
+        "uid" : "7eb1136287bfdc1b",
+        "parentUid" : "79fc5e312629d5407d9a75923e843604",
+        "status" : "broken",
+        "time" : {
+          "start" : 1704579896013,
+          "stop" : 1704579896254,
+          "duration" : 241
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_get_money_manager_by_sfid",
+        "uid" : "7eb7142a1becd957",
+        "parentUid" : "79fc5e312629d5407d9a75923e843604",
+        "status" : "broken",
+        "time" : {
+          "start" : 1704579895751,
+          "stop" : 1704579895998,
+          "duration" : 247
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "79fc5e312629d5407d9a75923e843604"
+    } ],
+    "uid" : "afd160efbe30b99efc79c7349251d833"
+  } ]
+}

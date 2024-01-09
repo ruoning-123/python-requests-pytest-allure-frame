@@ -1,0 +1,15 @@
+{
+  "total" : 1,
+  "items" : [ {
+    "uid" : "9d127dc33f7c6947fd7fa39108e17b10",
+    "name" : "test.test_amp_api.test_amp_accloud_api",
+    "statistic" : {
+      "failed" : 2,
+      "broken" : 3,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 5
+    }
+  } ]
+}

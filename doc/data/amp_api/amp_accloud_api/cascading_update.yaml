@@ -1,0 +1,45 @@
+add_cascading_update_sma:
+  api_name: '新增sma,model与strategy的关联'
+  url: '/api/v1/services/wealth_tech/amp/cas-updates'
+  accloud_wtech__modelsma__c: { sma_sfid }
+  accloud_wtech__sepacc__r__accloud_wtech__external_id__c: { extend_sfid }
+  accloud_wtech__ratio__c: 10.00
+  assert:
+    code: 200
+add_cascading_update_model:
+  api_name: '新增sma,model与strategy的关联'
+  url: '/api/v1/services/wealth_tech/amp/cas-updates'
+  accloud_wtech__modelsma__c: { model_sfid }
+  accloud_wtech__sepacc__r__accloud_wtech__external_id__c: { extend_sfid }
+  accloud_wtech__ratio__c: 10.00
+  assert:
+    code: 200
+get_cascading_update_by_sma_sfid:
+  api_name: '根据sma sfid查询sma和strategy的关联关系'
+  url: '/api/v1/services/wealth_tech/amp/cas-updates/search/model-id?modelId='
+  sfid: { sma_sfid }
+  assert:
+    code: 200
+get_cascading_update_by_model_sfid:
+  api_name: '根据sma sfid查询sma和strategy的关联关系'
+  url: '/api/v1/services/wealth_tech/amp/cas-updates/search/model-id?modelId='
+  sfid: { model_sfid }
+  assert:
+    code: 200
+delete_cascading_update_by_model_sfid:
+  api_name: '根据model sfid删除model和strategy的关联'
+  url: '/api/v1/services/wealth_tech/amp/cas-updates/'
+  sfid:  { model_sfid }
+  assert:
+    code: 200
+delete_cascading_update_by_sma_sfid:
+  api_name: '根据sma sfid删除model和strategy的关联'
+  url: '/api/v1/services/wealth_tech/amp/cas-updates/'
+  sfid: { sma_sfid }
+  assert:
+    code: 200
+
+
+
+
+

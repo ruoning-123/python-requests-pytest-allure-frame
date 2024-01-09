@@ -1,0 +1,1 @@
+该代码框架是python-requests-pytest-allure测试框架，只写了完整的demo,ui自动化也可以仿照这个去写
